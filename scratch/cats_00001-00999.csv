@@ -1,0 +1,999 @@
+ID,GENDER,NAME,EMS,DOB,REG,SIRE,DAM
+1,M,"""B"" Mahe mein Ein und Alles",MCO a,06-02-2006,FD LO 143267,186408,194034
+2,F,"""C"" It's Me Sajonara of Schjetne DK",PER d,13-05-1991,FD LO 63187,118996,194074
+3,M,"""C"" The Creme Bandit of Schjetne DK",PER e,13-05-1991,FD LO 63185,118996,194074
+4,M,"""C"" The Red Manu of Schjetne DK",PER d,13-05-1991,FD LO 63186,118996,194074
+5,M,"""D"" Casanova Joe of Schjetne DK",PER d,06-12-1991,FD LO 65866,118996,1326
+6,F,"""D"" Charming Belinda of Schjetne DK",PER d,06-12-1991,FD LO 65865,118996,1326
+7,M,"""D"" Ginger Man of Schjetne DK",PER d,06-12-1991,FD LO 65868,118996,1326
+8,F,"""D"" X-Collection of Schjetne DK",PER d,06-12-1991,FD LO 65864,118996,1326
+9,M,"""D"" X-stremely Red Jr of Schjetne DK",PER d,06-12-1991,FD LO 65867,118996,1326
+10,F,"""E"" Viva Las Vegas of Schjetne DK",PER f,22-05-1992,FD LO 67584,128254,194074
+11,F,"""E"" Viva ZZ Top of Schjetne DK",PER f,22-05-1992,FD LO 67583,128254,1326
+12,M,"""Mactho Man"" van Anubis of Farao's",SPH n,...,BKV 050002908,17301,13428
+13,M,"""Me Tarzan"" Unplugged DK",MCO d 22,13-09-1999,FD LO 102070,9075,61402
+14,F,"""You Jane"" Unplugged DK",MCO n,13-09-1999,FD LO 102071,9075,61402
+15,F,(A)LangThai's Zeudi Araya,OSH b,...,ANFI LO 79666,1587,132845
+16,F,(A)Winerau's Xenia of Perfect Cat*UA,MCO f 22,...,UA.FAU.01.94506.11,163983,136028
+17,F,(Blue) Tara van Sheba's Adiba,ABY n,...,NHS AK 50.875,,
+18,F,(IDP)Betty Back's Sahara,EXO fs 22 62,...,(N)NRR LO 144241,17203,134496
+19,F,(IND) Peaches Blue Belle,NFO ft s 09 22,...,(N)NRR RX 143345,192542,154976
+20,M,(IND)Aliosha's Draumur Simsonsson,NFO ns 09,...,(N)NRR LO 126222,,
+21,F,(IND)Backkara's Cha-Cha,SBI h 21,07-11-2004,(N)NRR LO 147122,167954,173717
+22,F,(IND)Backkara's Delicious Dream,SBI n,30-01-2004,(N)NRR LO 138273,167945,167918
+23,M,(IND)Backkara's Picasso,SBI a,...,(N)NRR LO 134994,,
+24,F,(IND)Overlord Charmic,MCO n 09 22,...,(S)FBK MC 580,126185,191238
+25,M,(IND)Overlord Lynx,MCO n 09 22,...,(S)SVERAK LO 180912,26,24
+26,M,(IND)Ramsekattens Shovelhead,MCO n 22,06-09-2000,(S)KKN SL 953-00,145594,27
+27,F,(IND)Rocky Robbin's Dirty Dancing,MCO f 23,...,(S)KKN SL 468-97,,
+28,M,(N) Du Monet Bentley,PER d 01 62,14-01-2006,SVERAK LO 238330,193699,29
+29,F,(N) Du Monet Guess,PER d 03 24,...,NRR LO 134523,153298,31
+30,M,(N) Frisco Lille Panda,PER n 01 21 62,20-05-2000,SVERAK LO 176868,154121,172850
+31,F,(N) Misty Bar-B-Doll,PER g 03 22,23-05-1997,NRR LO 119207,13801,140514
+32,F,(N) Summerfield's Isabella,MCO w 62,21-10-2007,FD LO 148689,1237,545
+33,F,(N) Summerfield's Kayla,MCO n 23,21-10-2007,FD LO 148687,1237,545
+34,M,(N) Summerfield's McDreamy,MCO n 22,11-03-2007,FD LO 146152,1237,545
+35,M,(N) Summerfield's Orlando,MCO n 22,21-10-2007,FD LO 148686,1237,545
+36,F,(N) Summerfield's Savannah,MCO w,11-03-2007,FD LO 146153,1237,545
+37,F,(N) Summerfield's Stella,MCO w 62,21-10-2007,FD LO 148688,1237,545
+38,F,(N) Summerfield's White Feather,MCO w 62,11-03-2007,FD LO 146151,1237,545
+39,F,(N)Abbusino Blue Diana,BUR a,...,NRR LO 4982,,
+40,M,(N)Abbusino Boris Bruno,BUR n,...,NRR LO 5502,123951,39
+41,M,(N)Absolute Balstyrige Belbert,BRI n 24,...,NRR LO 111930,,
+42,F,(N)Adelrose Aurelia Munch,NFO ns 23,20-12-2007,FD LO 170813,1143,169723
+43,F,(N)Adriexi's Xandra,SBI g,...,NRR LO 132033,167947,167935
+44,F,(N)Agapimo's Babelle Bluebell,SBI a,...,NRR LO 61692,186944,175189
+45,F,(N)Agricats Karma,PER f 33,19-11-1992,NRR LO 107679,135044,135045
+46,F,(N)Agricats Key To My Heart,PER f,19-11-1992,FD LO 70254,135044,135045
+47,F,(N)Alinde's Nola,NFO f 09,12-11-1999,SVERAK RX 183355,1147,727
+48,M,(N)Alladin av LinnMa,NFO ns 09 23,...,NRR LO 112615,186574,1154
+49,F,(N)Almighty Alba D'Arakan,SBI n,...,NRR LO 121341,21617,168804
+50,F,(N)Almighty Ascendant of Dorothé,SBI g,...,NRR LO 121344,21617,168804
+51,F,(N)Almighty Certified For Harmony,SBI a,19-06-2000,FD LO 105163,133,49
+52,M,(N)Almighty Scotch Corner,SBI n,...,(SE)SVERAK LO 180647,,
+53,M,(N)Almighty Wedge Antilles,EXO ns 22 62,...,(N)NRR LO 132716,,
+54,M,(N)Amazing Blue's Fabian,RUS,...,NRR LO 4942,180724,10563
+55,M,(N)Amazing Blue's Gabor,RUS,...,NRR LO 5374,128782,10563
+56,M,(N)Amita's Amigo,PER a 03,...,NRR RX 32107,150313,152031
+57,M,(N)Amorada O Sole Mio,NFO n 09 23,...,NRR LO 60434,186537,194284
+58,F,(N)Amorada Ønskedrøm,NFO d 09 23,...,NRR RX 53397,159615,194284
+59,F,(N)Apelia's Dream Come True,SBI n,...,NRR LO 125970,,
+60,F,(N)Apelia's Everlasting Love,SBI c,...,NRR LO 127336,,
+61,M,(N)Apelia's Fabian,SBI c,...,NRR LO 127805,168212,24081
+62,F,(N)Apelia's Felina,SBI c,19-04-2000,FD LO 106030,168212,24081
+63,M,(N)Apelia's Francisco,SBI b,...,NRR LO 127803,,
+64,F,(N)Apelia's Hugs 'n' Kisses,SBI c,27-03-2001,NRR LO 130746,168212,60
+65,F,(N)Apelia's Jewel of The Nile,SBI c,...,STJR 06-249,63,59
+66,M,(N)Apelia's Noble Warrior,SBI b,...,NRR LO 138158,61,172959
+67,M,(N)Apelia's Noble Warrior,SBI b,...,(N)NRR LO 138158,61,172959
+68,F,(N)Apelia's Nordic Angel,SBI h 21,19-08-2003,CCCA GC GC04,61,172959
+69,M,(N)Appendix Blix,PER n 03 22,...,FGK 0557-01,166846,13804
+70,F,(N)Appendix Cheri,PER n 03 22,22-04-1997,FD LO 102053,166846,13804
+71,M,(N)Arbi's Andantino,NFO n 09,...,NRR RX 52250,159617,157149
+72,M,(N)Arbi's Figaro,NFO d 09,...,SVERAK RX 82281,71,1243
+73,F,(N)Arbi's Geisha,NFO n 09,...,NRR RX 53856,,
+74,F,(N)Arctic Coon's Andorra Surprise,MCO a 23,28-11-1997,NRR LO 120896,169565,169557
+75,F,"(N)Arctic Coon's Aunt Mary, JW",MCO n 22,...,(N)NRR LO 135013,147055,98
+76,M,(N)Arctic Coon's Bandidoz,MCO d 22,18-12-1998,NRR LO 124378,128636,169557
+77,F,(N)Arctic Coon's Biscaya,MCO a 22,18-12-1998,(N)NRR LO 124379,128636,169557
+78,M,(N)Arctic Coon's Casanova,MCO n 22,...,NRR LO 124545,,
+79,M,(N)Arctic Coon's Casanova,MCO n 22,...,NRR 124545,,
+80,M,(N)Arctic Coon's Chief Bart Simpson,MCO n 22,...,SVERAK LO 156486,,
+81,F,(N)Arctic Coon's Cornelia Cacao,MCO n 22,20-02-1999,NRR LO 124542,185366,139246
+82,F,(N)Arctic Coon's Demi Moore,MCO a 22,...,(N)NRR LO 125104,185366,169557
+83,F,(N)Arctic Coon's Evita,MCO n 22,09-05-1999,NRR RX 125109,185366,15580
+84,F,(N)Arctic Coon's Faithful Moon,MCO f 22,06-11-1999,FD LO 107210,128435,139246
+85,M,(N)Arctic Coon's Frank Zappa,MCO n 22,06-11-1999,FD LO 107211,128435,139246
+86,M,(N)Arctic Coon's Full Moon,MCO n 22,...,NRR LO 126862,128435,139310
+87,M,(N)Arctic Coon's Gallatazzarai,MCO n 22,01-02-2000,NRR LO 127173,76,81
+88,F,(N)Arctic Coon's Grace Jones,MCO ns,...,(N)NRR LO 143413,146450,104
+89,F,(N)Arctic Coon's Hotlips,MCO f,...,NRR LO 138610,164231,103
+90,F,(N)Arctic Coon's Ibiza Sunrise,MCO d 22,05-05-2000,(N)NRR LO 128095,149104,169557
+91,M,(N)Arctic Coon's Inferno,MCO d 22,01-10-2007,(IS)KKI LO 03502,133012,104
+92,M,(N)Arctic Coon's Iq Red Rock,MCO d 22,05-05-2000,NRR LO 128098,149104,169557
+93,F,(N)Arctic Coon's Jamaica,MCO n,...,(N)NRR RX 128437,,
+94,F,(N)Arctic Coon's Koz & Kaos,MCO f 22,...,NRR LO 129077,76,139246
+95,F,(N)Arctic Coon's Lucy Liu,MCO f 22,28-09-2000,NRR LO 129075,76,81
+96,M,(N)Arctic Coon's Ozzy,MCO d 22,15-01-2004,(N)NRR LO 138599,164233,90
+97,M,(N)Arctic Coon's Paparazzi,MCO n,...,(N)NRR LO 131553,,
+98,F,(N)Arctic Coon's Patzy,MCO g,...,NRR LO 131557,86,169557
+99,M,(N)Arctic Coon's Pavarotti,MCO n 22,20-09-2001,CFA 1744-1458239,86,169557
+100,F,(N)Arctic Coon's Pricilla Prytzly,MCO f 22,...,DVDK 27361,86,169557
+101,M,(N)Arctic Coon's Quatro,MCO d,25-09-2001,(N)NRR LO 131572,86,15580
+102,M,(N)Arctic Coon's Red Hot Chili Pepper,MCO d 22,...,(N)NRR LO 135016,147055,98
+103,F,(N)Arctic Coon's Rolls Joyce,MCO f 22,...,(N)NRR LO 131571,86,90
+104,F,(N)Arctic Coon's Sharon Stone,MCO f 22,04-09-2003,(N)NRR LO 137295,101,77
+105,F,(N)Arctic Coon's Stella Polaris,MCO a 22,...,(N)NRR LO 132396,86,82
+106,M,(N)Arctic Coon's Wild Majesty,MCO d 22,...,(N)NRR LO 135005,147054,94
+107,F,(N)Arctic Coon's X-elent Kalua,MCO n 22,07-11-2002,SVERAK LO 188950,147054,169557
+108,M,(N)Arctic Coon's Zorbaz,MCO n,...,(N)NRR LO 134809,97,93
+109,F,(N)Aristel's Concordia,BRI n 22,31-10-1996,SVERAK LO 144157,12670,959
+110,F,(N)Aristel's Cyntia,BRI n 24,31-10-1996,FD LO 88754,12670,959
+111,F,(N)Artic Coon's Tortilla,MCO f,15-12-2003,(N)NRR LO 137843,147054,15580
+112,M,(N)Aryam Felix,ABY n,...,NRR LO 5604,1774,16911
+113,M,(N)Astasiam Baffin Bellmann,SIA a,...,NRR LO 105604,159582,143062
+114,F,(N)Astasiam Chula Chamante,SIA n,29-11-1992,FD LO 84831,177004,143062
+115,F,(N)Astasiam Cindy Celerina,SIA n,29-11-1992,NRR LO 107903,177004,143062
+116,M,(N)Astasiam Iceblue Isak,SIA a,04-10-2002,NRR LO 134768,118702,150862
+117,M,(N)Asynjen's Frodo,NFO d 09 22,23-04-1991,FD LO 63222,1075,1072
+118,F,(N)Asynjen's Frøya,NFO f 09 23,23-04-1991,FD LO 64607,1075,1072
+119,F,(N)Asynjen's Tussi,NFO f 09 22,11-10-1996,NRR LO 117193,20444,1072
+120,M,(N)Attack's Devil-sTail,BAL d,17-11-2004,FD LO 132101,118572,16978
+121,F,(N)Attack's Long Kiss,BAL g,17-11-2004,NRR LO 140057,118572,16978
+122,M,(N)Attack's Miu Miu,BAL d 21,19-04-2006,SVERAK LO 223654,170180,121
+123,M,(N)Ayram Benedict,ABY o,...,NRR LO 4754,,
+124,F,(N)Ayram Frezia,ABY o,...,NRR LO 5608,1774,16911
+125,F,(N)Ayram Harmonia,SOM o,...,NRR LO 62413,,
+126,F,(N)Ayram Minerva,ABY n,...,NRR LO 117452,,
+127,M,(N)Azzi's Frodo,RAG a 04,09-08-2003,SVERAK LO 197836,172652,1010
+128,F,(N)Azzi's Jasmin,RAG n,06-06-2004,SVERAK LO 203946,172654,172647
+129,M,(N)Bajasso's Chevalier de Danceney,NFO n 09 23,...,NRR RX 54581,1398,175318
+130,F,(N)Bajasso's Juliane,NFO a 23,...,NRR RX 54583,1398,175318
+131,F,(N)Bajasso's Silvia,NFO ns,...,SVERAK RX 55586,159621,175318
+132,F,(N)Bakketuns Meta,NFO f 23,...,NRR RX 54996,,
+133,M,(N)Bantai's Aquarius,SBI a,...,NRR LO 122120,142510,142502
+134,F,(N)Bargello Gogo Girl,MCO gs 03,...,NRR LO 139066,154355,167414
+135,F,(N)BatStar Oh Yeah,OSH g 24,16-07-2007,(SE)SVERAK LO 237686,124085,175026
+136,M,(N)Beatles Day Tripper,CRX n,...,SVERAK LO 51881,194147,2860
+137,F,(N)Beier's Aurora,NFO n 09 23,...,NRR RX 52490,131892,9056
+138,M,(N)Beier's Bianco,NFO w,...,NRR LO 61312,,
+139,M,(N)Beier's Brage,NFO n 23,...,NRR LO 63452,144,141713
+140,F,(N)Beier's Daisy,NFO n 09 22,...,NRR RX 52630,131892,9063
+141,F,(N)Beier's Danielle,NFO n 09 23,...,NRR LO 60760,124131,137
+142,F,(N)Beier's Darling,NFO n 09 23,...,NRR RX 55359,1370,136923
+143,F,(N)Beier's Kristara,NFO w,...,NRR LO 61315,1366,137
+144,M,(N)Beier's Mikke,NFO n 09 23,...,NRR LO 62490,241,137
+145,M,(N)Beier's Romeo,NFO w,...,NRR LO 61093,1366,140
+146,F,(N)Benill's Amor,SIA a,...,NRR LO 100044,,
+147,F,(N)Bernhof Nastya,RUS,...,NRR LO 140676,14158,350
+148,F,(N)Bevre's Dessi,PER n 02 62,29-02-1996,FD RX 12655,1305,1306
+149,F,(N)Bevre's Penny Paintbox,PER f 03,...,NRR RX 108263,56,130572
+150,M,(N)Bevre's Prince Michael,PER e 02 62,19-06-1996,FD RX 12654,477,149
+151,M,(N)Big Kitty Antonio,MCO d 22,16-05-2005,FD LO 135799,172319,1116
+152,F,(N)Big Kitty Cherie,MCO a 22,17-09-2009,(DK)FD LO 178404,147077,154
+153,M,(N)Big Kitty Hansa Light,MCO n 22,03-05-2006,FD LO 141849,142219,170783
+154,F,(N)Big Kitty Magica,MCO n 22,...,(NO)NRR LO 149420,142219,142135
+155,M,(N)Bigstone's Amadeus,BRI ns 24 62,13-08-2003,SVERAK LO 195272,4438,376
+156,M,(N)Bimico's Astro,RAG a 04,14-05-2009,FD LO 177784,328,330
+157,F,(N)Bjølar's Bella Tiffany,NFO f 09,...,NRR RX 55461,938,1022
+158,F,(N)Bjølar's Betzy,NFO d,...,NRR RX 55462,,
+159,F,(N)Bjølar's Esmeralda,NFO f,...,NRR LO 62732,155195,158
+160,M,(N)Bjørn's Bamse,BUR a,...,NRR LO 117365,,
+161,M,(N)Bjørn's Cornelis,BUR e,15-08-1999,NRR LO 125821,134316,125854
+162,F,(N)Bjørn's Esmeralda,BUR d,05-08-2000,NRR LO 128790,121579,125854
+163,M,(N)Bjørn's Garfield,BUR e,...,NRR LO 132074,170158,162
+164,F,(N)Bjørn's Hei Heidi Hei,BUR j,...,NRR LO 132520,161,744
+165,F,(N)Bjørn's Joan Baez,BUR g,17-08-2003,SVERAK LO 193991,163,164
+166,M,(N)Blackwater's Bailey,ABY p,...,NRR LO 6751,155224,1061
+167,F,(N)Blackwater's Schila,ABY a,20-03-1995,FD LO 105690,166,130491
+168,M,(N)Blomsterdalen's Amigo,NFO n 09,24-01-2004,NRR LO 138197,174535,126194
+169,F,(N)Blomsterdalen's Belinda,NFO w,03-11-2004,NRR LO 140195,168,170692
+170,M,(N)Blomsterdalen's Cæsar,NFO ns 09 24,10-11-2004,(N)NRR LO 140407,23040,190822
+171,F,(N)Blomsterdalen's Diana,NFO w,...,(N)NRR LO 143420,170,170692
+172,M,(N)Blåbærskogens Fabian,NFO n 09,...,SVERAK RX 56799,159617,167124
+173,M,(N)Blåbærskogens Faxe,NFO n,...,NRR RX 52194,159617,167124
+174,F,(N)Bobo's Amalia Sachs,DRX b,20-07-2009,FD LO 157821,134795,101037
+175,F,(N)Bobo's Annika Bengtzon,CRX a 09 33,15-08-2007,FD LO 152572,32463,183534
+176,M,(N)Bobo's Dragan Armanskij,CRX a 23,08-01-2008,FD LO 154125,32463,183535
+177,M,(N)Bobo's Harry Hole,CRX n 09 33,15-08-2007,FD LO 152573,32463,183534
+178,M,(N)Bobo's Kurt Wallander,CRX n 33,15-08-2007,FD LO 152571,32463,183534
+179,M,(N)Bobo's Lincoln Rhyme,DRX b,20-07-2009,FD LO 157820,134795,101037
+180,F,(N)Bobo's Lisbeth Salander,CRX a 23,08-01-2008,FD LO 154122,32463,183535
+181,M,(N)Bobo's Michael Blomkvist,CRX a 23,08-01-2008,FD LO 154124,32463,183535
+182,M,(N)Bobo's Millenium,CRX a 23,08-01-2008,FD LO 154123,32463,183535
+183,M,(N)Bobo's Varg Veum,NFO e 02 21,15-08-2007,FD LO 152570,32463,183534
+184,F,(N)Bombalurina's Bohamian Rapsody,PER g 03,14-02-1992,FD LO 73927,159762,137227
+185,F,(N)Bombalurina's Head in the Clouds,PER a,30-08-1996,FD LO 89243,149618,190099
+186,F,(N)Bombalurina's Jitterbug,PER n 03,...,NRR LO 108543,159762,183439
+187,M,(N)Bombalurina's Man In The Moon,PER a 02 62,05-08-1997,SVERAK LO 148954,149618,190062
+188,F,(N)Bombalurina's Postmarque,PER n 03,08-08-1990,FD LO 65335,125789,183105
+189,M,(N)Bombalurina's Waikiki,PER n,...,NRR LO 113437,149618,186
+190,F,(N)Brekkeby's Carmenzita,NFO n,13-04-2002,FD LO 117138,173178,159908
+191,M,(N)Brekkeby's Zako,NFO n 24,...,NRR LO 132726,173178,159908
+192,F,(N)Brica's Persian Turtle,PER f 03,...,NRR LO 108493,,
+193,F,(N)Brica's Victoria,PER f 03,...,NRR LO 110098,159762,192
+194,F,(N)Brusvehagen Angel of Mine,PER n 22,...,NRR LO 128998,1104,868
+195,F,(N)Brusvehagen Bubbles of Pleasure,EXO g,21-03-2003,FD LO 122896,208,196
+196,F,(N)Brusvehagen Cabotine,EXO e,...,NRR LO 131220,871,207
+197,M,(N)Brusvehagen Captain of My Heart,PER ns 23 62,23-02-1998,SVERAK LO 162770,1101,866
+198,M,(N)Brusvehagen Casino Royale,PER n 03 22,30-10-2006,SVERAK LO 231030,202,205
+199,F,(N)Brusvehagen Chanel,EXO e,...,(N)NRR LO 131219,,
+200,F,(N)Brusvehagen Cloé,EXO e,...,NRR LO 131221,871,207
+201,F,(N)Brusvehagen Dream Baby,PER f,27-07-2000,NRR LO 128999,1104,868
+202,M,(N)Brusvehagen Eternity,PER n 03 22,05-06-2005,NRR LO 142045,121299,173908
+203,F,(N)Brusvehagen Lady Marmelade,EXO f,...,(N)NRR LO 132256,,
+204,F,(N)Brusvehagen Madam Butterfly,PER f 22,05-06-1997,NRR LO 119463,172113,867
+205,F,(N)Brusvehagen Magnolia,PER n 03,...,NRR LO 132411,23239,201
+206,F,(N)Brusvehagen Mira Miranda,PER ns,16-04-2000,NRR LO 128565,210,869
+207,F,(N)Brusvehagen Petit Minette,EXO g,05-02-1998,NRR LO 121536,172113,173903
+208,M,(N)Brusvehagen Simply The Best,PER a,...,NRR LO 133261,871,10340
+209,M,(N)Brusvehagen Sweet Expression,PER n,...,NRR LO 130146,171951,206
+210,M,(N)Brusvehagen Touch of Heaven,PER ns,12-06-1997,NRR LO 119468,172113,866
+211,M,(N)Bytangen's Asgeir,NFO d 09 24,13-01-2006,(NO)NRR LO 144000,172283,970
+212,F,(N)Bytangen's Bodil,NFO f 09,14-02-2007,FD LO 148921,171547,969
+213,F,(N)Baarli's Bianka,MCO ns 22,...,(N)NRR LO 142432,170780,1117
+214,M,(N)Caelitus Déjá-vu,SIA d,04-12-2007,(SE)SVERAK LO 247317,151521,173850
+215,M,(N)Calamity Good Boy Fendi,SBI a,14-03-1999,SVERAK LO 158617,782,217
+216,M,(N)Calamity's Charming Dodi,SBI n,29-01-2000,FD LO 103597,170635,10292
+217,F,(N)Calamity's Delightful Darcee,SBI a,...,NRR LO 118362,,
+218,F,(N)C-Am's Oriental Blue Lagoon,OSH a,...,NRR LO 124810,,
+219,F,(N)C-Am's Oriental Desiree,OSH a 24,24-11-2000,SVERAK RX 174747,671,218
+220,M,(N)Cantimo's Idefix,SBI n 21,...,NRR LO 61641,170172,10204
+221,F,(N)Cara Cheeta,KOR,...,SVERAK LO 45622,140206,175961
+222,M,(N)Carambas Coquito,SOM n,...,NRR LO 62520,,
+223,M,(N)Carambas Durango,SOM n,...,NRR LO 63212,174635,147629
+224,F,(N)Carambas Ellisse,SOM n,...,NRR LO 115405,171616,147629
+225,F,(N)CarilloCat January Jane,SIB f 02 21,12-01-2010,(DK)FD LO 180013,171315,226
+226,F,(N)CarilloCat Lucky Choice,SIB fs 02,...,(NO)NRR LO 153317,84341,170441
+227,F,(N)CarilloCat Peek A Boo,SIB fs 03 22,...,(N)NRR LO 156435,229,170441
+228,M,(N)CarilloCat Septimus,SIB ns 03 22,14-09-2010,(DK)FD LO 202368,84341,227
+229,M,(N)CarilloCat Smoke'n Fire,SIB ds,18-04-2007,(N)NRR RX 148477,166702,171434
+230,F,(N)CarilloCat Weird Wonder,SIB fs,27-08-2008,(SE)SVERAK RX 252080,84341,171434
+231,F,(N)Carrabassett's Foxy Brown,MCO n 22,13-11-2010,(DK)FD LO 203559,608,41375
+232,M,(N)Casa Rolla Fabian,KBL ns,31-07-2009,(DK)FD RX 211995,189080,1047
+233,M,(N)Casa Rolla Hippie F,KBL ns 24,...,(N)NRR RX 157405,189080,1047
+234,M,(N)Cat Baloo's Red Delicious,SBI d,...,NRR LO 60580,148591,186965
+235,M,(N)Catfellow's Conan,MCO n,...,(N)NRR LO 142123,96,820
+236,F,(N)Catfellow's Dark Angel,MCO f,...,NRR LO 142112,96,111
+237,M,(N)Catfellow's Kilimanjaro,MCO n,11-10-2007,FD LO 171791,235,88
+238,M,"(N)Catfellow's Kilimanjaro, JW",MCO n,11-10-2007,FD LO 170980,235,88
+239,F,(N)Catfellow's Miss Sarah Jesebel,MCO d,19-04-2008,FD LO 173324,96,236
+240,F,(N)Catline Belina,NFO n 22,...,NRR LO 62048,,
+241,M,(N)Catline Brahms,NFO ns 23,...,NRR LO 62051,183832,1074
+242,F,(N)Catline Daisy,NFO n 22,...,NRR RX 55768,765,954
+243,M,(N)Catline Dennis,NFO n 22,...,NRR RX 55770,765,954
+244,F,(N)Catline Evita,NFO w,...,NRR RX 55952,194283,130936
+245,F,(N)Catline Julie,NFO n 09 22,...,NRR LO 61449,1020,954
+246,M,(N)Catline Kim,NFO n 09 22,...,NRR LO 63262,3453,242
+247,M,(N)Catline Leon,NFO w,...,NRR RX 111798,194283,130936
+248,F,(N)Catline Mia,NFO ns 09 23,...,NRR LO 112158,246,126072
+249,F,(N)Catline Miss Elouise,BAL g 21,...,NRR LO 108330,179553,151773
+250,F,(N)Catline Miss Ezzie,BAL g 21,...,NRR LO 108329,,
+251,F,(N)Catline Papaia,NFO n 09 22,31-08-1990,FD LO 61692,1020,954
+252,F,(N)Catline Pia,NFO ns,...,NRR RX 116661,,
+253,M,(N)Catline Tristan,NFO ns 23,28-06-1997,FD RX 12400,122214,248
+254,F,(N)Catline White Linnen,NFO w,...,NRR RX 54363,1020,130936
+255,M,(N)Catzmir's Goggen,SBI a,03-02-2001,NRR LO 129862,173511,256
+256,F,(N)Catzmir's Ninni,SBI a,...,NRR LO 124213,,
+257,M,(N)Celosia's Aramis,PER a 33,...,NRR LO 131052,262,972
+258,M,(N)Celosia's Chandèr,PER d 33,...,NRR LO 112058,,
+259,F,(N)Celosia's Fortuna,PER e 33,28-05-1998,NRR LO 122490,260,984
+260,M,(N)Celosia's Labbetuss,PER d 33,...,NRR LO 116115,,
+261,M,(N)Celosia's Poseidon,PER e 33,18-09-2003,FD LO 126528,257,136005
+262,M,(N)Celosia's Thunder,PER e 22,24-06-2000,NRR LO 128506,170060,259
+263,M,(N)Charannis Daparell,SBI n,...,NRR LO 61931,,
+264,F,(N)Chemitasha's Chakeela,SBI h 21,11-11-2002,FD LO 134801,167949,169286
+265,M,(N)Cherrydown's Fav,PER e,...,NRR LO 116108,167740,166845
+266,F,(N)Cherrydown's Heartbreaker,PER f 03,...,NRR LO 111834,,
+267,F,(N)Cherrydown's Madelen,PER n 01 62,...,NRR LO 116088,149020,266
+268,F,(N)Cherrydown's Rebeca,PER g 03,...,NRR LO 121004,265,267
+269,F,(N)Chiang Si's Lady Camouflage,OSH f,...,NRR LO 102557,,
+270,M,(N)Chocolaterie Deux Lai-La Rouge,SIA d,...,NRR LO 106654,167261,181820
+271,F,(N)Chriar's Ansell,SIA n 21,...,NRR LO 119421,966,963
+272,M,(N)Chriar's Morten Minstemann,SIA n,...,NRR LO 124852,,
+273,F,(N)Chrissus Akela,NFO n 23,22-08-2000,(N)NRR LO 129019,1267,1086
+274,F,(N)Chrissus Black Moon,NFO n 03,20-12-2007,(DK)FD LO 206565,43667,171468
+275,M,(N)Chrysanthemum Baltus,BUR n,05-03-2009,(S)SVERAK LO 257163,114944,173452
+276,F,(N)Cir-Da-Mir Anabele M,SIA n,...,SVERAK LO 118624,,
+277,F,(N)Cj De's Isis Angelica,SIA a,...,NRR LO 136990,173924,311
+278,F,(N)Coco Chanel's Duchesse Draquella,OSH n 24,29-05-2009,FD LO 157713,166876,123377
+279,F,(N)Coco Chanel's Everblue,SIA a,...,NRR LO 112015,23197,501
+280,F,(N)Coco Chanel's Mercedes,OSH n 24,23-03-2008,(S)SVERAK LO 246345,123724,148555
+281,M,(N)Coco Chanel's Moonswift,SIA n,03-02-1997,SVERAK RX 147044,143059,160588
+282,F,(N)Coco Islands' Amanda,NFO f 09,...,NRR RX 55224,1020,359
+283,F,(N)Coco Islands' Bettina,NFO f 09 22,...,NRR RX 55755,187066,359
+284,F,(N)Coco Islands' Carmen,NFO n 09 22,...,NRR LO 63264,167454,283
+285,M,(N)Coco Islands' Horkheimer,NFO n 23,15-09-1996,FD LO 90866,168823,284
+286,F,(N)Coco Islands' Hulda,NFO n 09 23,...,NRR LO 117347,168823,284
+287,M,(N)Coco Island's Kyrre,NFO n 09 22,...,(S)SVERAK LO 163647,,
+288,M,(N)Coco Islands' Leo,NFO n 09 22,30-11-1999,FD RX 13975,129,283
+289,M,(N)Coco Islands' Mr. Q,NFO n 09 22,02-03-2003,NRR LO 135296,834,291
+290,M,(N)Coco Island's Oliver,NFO n 09 22,...,1.DEKZV LO 288409,,
+291,F,(N)Coco Islands' Oranja,NFO n 22,25-11-2001,NRR LO 131687,487,183814
+292,M,(N)Con Brio's Faustino,EXO ns 23 62,...,NRR LO 129231,130025,130045
+293,F,(N)Con Brio's Frida,EXO ns,...,NRR LO 129232,130025,130045
+294,M,(N)Con Brio's Obi-Wan Kenobi,EXO n 22,...,NRR LO 136114,127237,293
+295,F,(N)Con Brio's Silver Joline,EXO ns 24 62,...,NRR LO 131751,292,130067
+296,M,(N)Con Brio's Silver Ragtime,EXO ns 22 62,08-04-2004,SVERAK LO 211600,127237,295
+297,M,(N)Con Brio's Silver William,EXO ns 24 62,26-03-2005,SVERAK LO 211596,127237,295
+298,M,(N)Con Keriiz Blue Magic Dream,SBI a,...,(N)NRR LO 148322,616,1040
+299,F,(N)Con Keriiz Breathless Diamond,SBI a,...,(N)NRR LO 148324,173377,173002
+300,F,(N)Confidense Ariana,BUR n,...,NRR LO 7050,173055,136724
+301,F,(N)Coontiki's Dixi Wild Symphonie,MCO n 22,22-01-2003,FD LO 121236,169570,6394
+302,F,(N)Cordon Bleu's Cotton Ball,SBI a,14-05-2002,NRR LO 133369,255,64
+303,F,(N)Crispy Josefine,BRI j 03,09-03-2006,FD LO 140631,170293,168470
+304,F,(N)Crown Imperial Divine Bast,SBI c,...,NRR LO 137904,347,302
+305,F,(N)Damrong's Atlanta,SIA g,...,NRR RX 114775,395,532
+306,F,(N)Damrong's Ballentine,BAL g,...,NRR LO 119107,525,532
+307,M,(N)Damrong's Bell Canto,SIA n,14-03-2001,NRR LO 129917,272,143052
+308,M,(N)Damrong's Choreta,BAL e 21,14-11-1997,FD LO 103068,525,305
+309,M,(N)Damrong's Fitzroy,SIA n,15-03-2008,(SE)SVERAK LO 255491,185903,157029
+310,M,(N)Damrong's Goldfinger,SIA c,24-02-2001,(NO)NRR LO 130059,166828,166827
+311,F,(N)Damrong's Lady Roxanne,SIA n,15-02-2002,NRR LO 132418,307,314
+312,M,(N)Damrong's Maybe it's Love,SIA n,...,NRR LO 137956,175074,143052
+313,F,(N)Damrong's Meskhenet,SIA b,23-08-2005,FD LO 137349,315,277
+314,F,(N)Damrong's Moneypenny,SIA a,24-02-2001,NRR LO 130058,166825,166827
+315,M,"(N)Damrong's Power in Stripes, JW",SIA n 21,...,NRR LO 137955,175074,143052
+316,M,(N)Damrong's Viracocha,SIA b,15-03-2008,FD LO 154858,185903,157029
+317,M,(N)Dapalie's Dark Kasper,SBI n,...,NRR LO 63249,263,637
+318,M,(N)Datura's Vargtass,EUR e,...,NRR RX 120182,146745,169824
+319,F,(N)Datura's Yme av Ynglingeætt,EUR d,02-09-1999,SVERAK RX 179170,318,140403
+320,F,(N)De La Chandre Poco Lino,PER g 03,...,SVERAK LO 92663,142478,163427
+321,F,(N)De La Chandre Puzzini,PER g 03,...,SVERAK LO 101051,21734,163427
+322,M,(N)Deci Dela's Dancing Danilo,SBI n 21,01-07-2004,FD LO 134054,171484,43
+323,M,(N)Decleor's Wilhelm,OSH b,...,NRR LO 108982,,
+324,M,(N)Diadem's Eddie,RAG n 03,30-12-2008,(S)SVERAK LO 254023,328,329
+325,M,(N)Diadem's Lucky Lillen,RAG a 03,05-11-2002,(N)NRR LO 134373,119582,345
+326,F,(N)Diadem's Olivia Soltone,RAG a 04,06-07-2004,(N)NRR LO 139315,325,164297
+327,F,(N)Diadem's Snehvit,RAG a 03,12-05-2005,(N)NRR LO 141892,22264,345
+328,M,(N)Diadem's Ulysses Soltone,RAG a 03,...,(N)NRR LO 145288,22264,326
+329,F,(N)Diadem's Whimsey,RAG n 03,...,(NO)NRR LO 145458,132161,327
+330,F,(N)Diadem's Wompey,RAG a 04,...,(N)NRR LO 145459,132161,327
+331,F,(N)Dockside's Stargate to heaven,PER g 03,...,(SE)SVERAK LO 269167,142332,142326
+332,M,(N)Dreamworks Balder in Memory,BEN n 24,23-06-2010,(SE)SVERAK RX 272512,136598,128884
+333,F,(N)Dreamworks Frøya,BEN n 24,...,(N)NRR LO 160479,136598,128884
+334,M,(N)Du Monet Braveheart,PER n,12-07-1998,FD LO 108503,162009,337
+335,F,(N)Du Monet Dolce Gabana,PER f,...,NRR LO 127913,887,1103
+336,F,(N)Du Monet Halloween Girl,PER f 03,27-10-2002,(N)NRR LO 135728,153298,343
+337,F,(N)Du Monet In My Wildest Dreams,PER f,...,NRR LO 115047,168869,1103
+338,F,(N)Du Monet j'adore NFS,PER f,...,(NO)NRR LO 127912,,
+339,F,(N)Du Monet Miss Dior,PER f,09-06-2000,FD LO 110288,887,1103
+340,M,(N)Du Monet Never Ending Story,PER d 03,07-06-1996,FD LO 88422,172840,171591
+341,F,(N)Du Monet Petite Le Carnevale,PER f 02 62,...,WACC ORKK LH 2467,171595,344
+342,M,(N)Du Monet van Gogh,PER n 01 62,22-08-2000,FD LO 125373,171595,155142
+343,F,(N)Du Monet When Susannah Cries NFS,PER f 03,...,(N)NRR LO 122411,,
+344,F,(N)Du Monet Wild Hearted Hannah,PER f 01 62,...,NRR LO 122412,172842,171587
+345,F,(N)Dukkelise's Amy,RAG a 03,...,Kat ID: 307451,170493,1009
+346,F,(N)Dukkelise's Amy,RAG a 03,08-01-2001,Kat ID: 307459,170493,1009
+347,M,(N)Easy Amadeus Cesar,SBI n,07-01-2003,NRR LO 134759,120209,129484
+348,M,(N)Edelburme's Ariboy,BUR n,25-03-1995,NRR LO 113568,812,300
+349,M,(N)Effectrix Iver,SBI e 21,26-06-2008,FD LO 173949,190269,473
+350,F,(N)Ege Fly's Gråpus,RUS,16-07-2003,NRR LO 136488,1221,172608
+351,F,(N)Eiva's Ayleen,SBI a,...,NRR LO 63192,1368,352
+352,F,(N)Eiva's Bianca,SBI n,...,NRR LO 61991,167528,720
+353,M,(N)Eiva's Joacim,SBI n,...,NRR LO 61534,,
+354,M,(N)Ekebergtrollet's Dexter,NFO ns 09 22,...,(S)SVERAK LO 204747,171996,3197
+355,M,(N)Eldon's Antonio,MCO e 09 22,...,(NO)NRR LO 137871,140258,165148
+356,M,(N)Ellila's Linus,NFO n 09 22,...,NRR RX 56125,1249,1250
+357,M,(N)Ellila's Sylvester,NFO n 09,...,NRR RX 56124,1249,1250
+358,F,(N)Elro's Dominique,NFO n 23,...,NRR RX 53895,159628,17168
+359,F,(N)Elro's Florina,NFO d 09 23,...,NRR RX 54424,159615,17168
+360,F,(N)Elro's Gloria,NFO n 09 23,...,NRR RX 54594,362,358
+361,F,(N)Elro's Gulli-Ane,NFO n 09 23,05-02-1990,FD RX 7968,362,358
+362,M,(N)Elro's Mr. Baus,NFO n 09,...,NRR RX 53476,182165,181404
+363,M,(N)Elro's Mr. Blix,NFO a 09,...,NRR RX 53475,182165,181404
+364,F,(N)Elsemonia's Chanel,SBI n,...,DNI SLH 1144,170172,170176
+365,F,(N)Embla's Lille Sigrid,NFO n 09 24,02-07-1999,NRR LO 125554,150784,167580
+366,F,(N)Embla's Solveig,NFO n 09,20-11-2000,SRK LO 66236,150784,167580
+367,M,(N)Exporama's Carson,PER as 22 62,...,FHK LH 2009-14,12640,18
+368,M,(N)Exporama's Eros,EXO as 22 62,...,(N)NRR LO 147035,372,18
+369,M,(N)Exporama's High Tech,EXO ds 22 62,...,(N)NRR LO 136345,,
+370,M,(N)Exporama's Hot N'Trendy,EXO ds,...,(N)NRR LO 136346,53,199
+371,F,(N)Exporama's Milla,EXO n 03,...,(N)NRR LO 135515,451,203
+372,M,(N)Exporama's Mr Ice Man,EXO es,...,(N)NRR LO 139407,369,199
+373,F,(N)Exporama's Party Mix,EXO f,...,(N)NRR LO 142752,370,371
+374,F,(N)Exporama's Something Special,PER gs 22 62,...,FHK LH 2009-51,368,373
+375,F,(N)Fanatrollet Bertine Zetlitz,BRI f 24,...,NRR LO 130208,,
+376,F,(N)Fanatrollet Deja Vu,BRI n 24,...,NRR LO 133495,171905,375
+377,M,(N)Fanatrollet Freia Choc O'boy,BRI b 03,26-08-2003,FD LO 128028,170310,119286
+378,M,(N)Federico av Skillebekk,ABY o,...,NRR LO 6613,155224,481
+379,M,(N)Felis Elegance Blue Sunrise,OSH a,...,NRR LO 120176,173126,384
+380,M,(N)Felis Elegance Golden Avalon,OSH bs 22,06-03-2002,NRR LO 132467,173102,385
+381,F,(N)Felis Elegance La Cheetah,OSH fs,...,NRR RX 111713,383,384
+382,F,(N)Felis Elegance Miss Tiffi,OSH bs,...,NRR RX 125073,379,381
+383,M,(N)Felis Elegance Syrano,OSH ds 24,...,NRR RX 108715,,
+384,F,(N)Felis Elegance Tiffany,OSH x ds 11,...,NRR RX 106743,,
+385,F,(N)Felis Elegance Zarina,OSH ns 24,...,NRR RX 129319,965,382
+386,F,(N)Ferapont Agafja,RUS,18-06-2006,FD LO 145382,1099,147
+387,M,(N)Fermund's Anthon,NFO ns 09 22,...,NRR RX 55042,929,187004
+388,F,(N)Fermund's Hera,NFO ns 09 22,...,(N)NRR LO 116850,942,122427
+389,M,(N)Feskarkatten Felix,RAG n 21,17-01-2006,(S)SVERAK LO 239085,1011,193551
+390,M,(N)Fidonna's Bartolomeus,SIA c,...,NRR LO 101107,,
+391,M,(N)Finto's Adrian,NFO n 09,17-03-1992,FD LO 67889,19996,516
+392,F,(N)Finto's Albertine,NFO f 09,17-03-1992,FD LO 67891,19996,516
+393,F,(N)Finto's Bianca,NFO n 09,01-08-1993,FD LO 74293,3453,516
+394,M,(N)Finto's Brutus,NFO n 09,...,NRR LO 62985,,
+395,M,(N)Fiori Avanti's Orlando,SIA c,...,NRR LO 108491,270,5556
+396,F,(N)Fiskarjenta's Sikori,NFO ns 24,...,NRR LO 139041,289,172578
+397,M,(N)Fiskerjenta's Ilvis,NFO n 09 24,...,SVERAK LO 194159,191,436
+398,M,(N)Fiskerjenta's Sisik,NFO n 22,10-05-2004,NRR LO 139195,289,172578
+399,M,(N)Fiskerjenta's Skifer,NFO ns 09 23,...,(N)NRR LO 139191,,
+400,M,(N)Fiskerjenta's Smultron,NFO n 09 22,...,(CH)FFH LO 63044,,
+401,M,(N)Fjellheim's Garth,NFO d 23,...,NRR RX 54501,,
+402,F,(N)Fjellheim's Klara Akita,NFO f 09,...,NRR RX 55181,401,157119
+403,M,(N)Fjellheim's Ludvig,NFO d 09 22,...,NRR RX 55396,124160,127813
+404,M,(N)Fjørner's Mr. Hopkins,PER e 03,...,SVERAK LO 98075,,
+405,F,(N)Flatland's Alexis,NFO as 09,...,NRR RX 52090,20002,20472
+406,F,"(N)Flatland's Avedine, DM",NFO w,17-08-1985,FD RX 4423,20002,20472
+407,M,"(N)Flatland's Bjørnstierne, DM",NFO n 22,27-03-1989,FD RX 6030,159617,730
+408,F,(N)Flatland's Bolarisa,NFO n 09,27-03-1989,FD RX 6031,159617,730
+409,F,"(N)Flatland's Brynhilde, DM",NFO n 09 22,27-03-1989,FD RX 6039,159617,730
+410,M,(N)Flatland's Buster,NFO n 09,...,NRR RX 54134,159617,730
+411,M,"(N)Flatland's Celius, DM",NFO n,01-04-1990,FD RX 6715,187066,730
+412,F,"(N)Flatland's Clara, DM",NFO n 09 23,01-04-1990,FD RX 6716,187066,730
+413,F,(N)Flatland's Cora,NFO n 09 23,01-04-1990,FD RX 6845,187066,730
+414,M,(N)Flatland's Daniel,NFO n 23,13-12-1990,FD RX 7590,163424,730
+415,M,(N)Flatland's Didrik,NFO n 23,13-12-1990,FD RX 7967,163424,730
+416,F,(N)Flatland's Gina,NFO n 09,19-11-1994,FD LO 83252,410,360
+417,F,(N)Flatland's Gyra,NFO n 09 23,19-11-1994,FD LO 83253,410,360
+418,F,(N)Flatland's Helene,NFO n,...,NRR RX 112496,411,1276
+419,M,(N)Flatland's Irgens,NFO n 09,13-08-1995,FD RX 11100,410,1276
+420,F,(N)Flatland's Irmelin,NFO n 09,...,NRR RX 113694,410,1276
+421,F,(N)Flatland's Judith,NFO a 09,20-09-1995,FD LO 86363,410,178847
+422,F,(N)Flatland's Karoline,NFO n 09,17-07-1997,NRR LO 119953,410,178847
+423,F,(N)Flatland's Mirakel,NFO w,...,NRR LO 125314,133258,178847
+424,M,(N)Flatland's Nikolay,NFO n 09,...,NRR LO 125316,,
+425,M,(N)Fodnaheia's Alessi,NFO n 09 23,...,NRR RX 126812,173163,422
+426,M,(N)Fodnaheia's Alessi,NFO a 09 23,07-12-1999,NRR LO 126812,173163,422
+427,F,(N)Fodnaheia's Avedine,NFO n 09 24,07-12-1999,NRR RX 126814,173163,422
+428,F,(N)Fodnaheia's Embla,NFO f 09 23,...,(NO)NRR LO 134820,,
+429,F,(N)Fodnaheia's Hedda,NFO f 09,...,NRR LO 123979,22474,422
+430,M,(N)Fodnaheia's Herse,NFO ns 09,...,NRR LO 123978,22474,422
+431,F,(N)Fodnaheia's Jolene,NFO ns 23,...,(N)NRR LO 140810,,
+432,M,(N)Fodnaheia's Kalo,NFO n 22,16-08-2006,FD LO 143469,103352,740
+433,M,(N)Fodnaheia's Kamado,NFO n 09 23,16-08-2005,FD LO 143570,103352,740
+434,M,(N)Fodnaheia's Kimbe,NFO n 09 22,26-06-2002,NRR LO 133213,441,173155
+435,F,(N)Fodnaheia's Lollo,NFO n 09 22,01-05-2002,SVERAK LO 182946,441,445
+436,F,(N)Fodnaheia's Lotte,NFO n 09,...,NRR LO 132683,441,445
+437,M,"(N)Fodnaheia's Louie, JW",NFO n 24,21-08-2008,(NO)NRR LO 152774,103352,440
+438,M,(N)Fodnaheia's Markus,NFO n 09 23,...,NRR LO 129101,173163,422
+439,M,(N)Fodnaheia's Nikko,NFO n 09 22,09-06-2003,FD LO 122895,466,173155
+440,F,"(N)Fodnaheia's Noomi, JW, DSM",NFO n 09 24,...,(N)NRR LO 135569,466,173155
+441,M,(N)Fodnaheia's Orkla,NFO n 09 22,14-03-2001,NRR LO 129923,167571,422
+442,M,(N)Fodnaheia's Revansj,NFO ns 09 24,24-06-2005,(N)NRR LO 141801,399,440
+443,M,(N)Fodnaheia's Tollak,NFO d 09,26-02-2000,FD LO 103171,430,119
+444,M,(N)Fodnaheia's Trym,NFO d 09,26-02-2000,FD LO 103452,430,119
+445,F,(N)Fodnaheia's Vanja,NFO n,...,NRR LO 123461,133258,119
+446,F,(N)Fodnaheia's Vilde,NFO f 09 22,...,NRR LO 123459,133258,119
+447,F,(N)Fodnaheia's Wiwi,NFO n 09 22,07-12-2003,NRR LO 137377,434,740
+448,M,(N)Fragleberget's Amacing Gobo,MCO e 22,...,FPL LO 2439,46269,933
+449,F,(N)Frisco Fancy-Free,PER f 02 21 62,04-08-2006,(DK)FD LO 214420,16689,452
+450,F,(N)Frisco Lady Jenny Lind,PER w 62,17-03-2000,FD RX 14253,5721,154200
+451,M,(N)Frisco Lille Bamse,PER n 01 21 62,...,(N)NRR LO 127600,,
+452,F,(N)Frisco Lovely,PER f 02 21 62,...,(N)NRR LO 134536,154121,172850
+453,F,(N)Frisco Miss Grethe Waits,PER n 03,...,NRR LO 109952,,
+454,F,(N)Frisco Miss Kasy,PER ns,...,(N)NRR LO 108404,,
+455,F,(N)Frisco Miss Topsy,PER n,...,(N)NRR LO 112975,168365,168371
+456,M,(N)Frisco Mr. Stardust,PER w 62,12-03-1998,NRR LO 121799,5721,5718
+457,M,(N)Frisco Mr.King Arthur,PER n,...,(N)NRR LO 114693,147947,454
+458,M,(N)Furuhaugen's Blåmann,NFO a 23,...,(N)NRR RX 55884,763,766
+459,F,(N)Furuskogen's Arja,NFO f 09,...,NRR RX 55855,1042,1089
+460,F,(N)Fuzzy Logic's Dazzling,SIA b,06-04-2007,FD LO 152932,146758,1121
+461,F,(N)Fyttikattas Noldus,NFO n,...,(N)NRR LO 133888,,
+462,M,(N)Gabinia's Albert,SOM n,...,NRR LO 60468,,
+463,M,(N)Gabinia's Alois,SOM n,...,FD LO 48084,174635,178480
+464,F,(N)Gabinia's Larina,SOM n,...,NRR LO 60633,164658,174652
+465,M,(N)Gamlebu's Moustache,NFO n 09 24,10-01-2001,SMK 6049-01,167571,365
+466,M,(N)Gamlebu's Pierre,NFO n 09 23,...,NRR LO 131620,167571,365
+467,M,(N)Gamlebu's Prince,NFO n 09 22,04-11-2001,SVERAK LO 180577,167571,365
+468,M,(N)Garderåsen's Augustus,NFO d 09 22,...,NRR LO 60898,,
+469,F,(N)Garderåsen's Caroline,NFO f 23,...,SVERAK RX 83547,468,808
+470,F,(N)Garderåsen's Catarina,NFO f 09 22,...,SVERAK RX 83420,468,808
+471,F,(N)Garfield's Andrea,ABY o,...,NRR LO 5927,184871,184875
+472,M,(N)Garfield's Little Aussie Battler,ABY n,...,NRR LO 122214,150221,150223
+473,F,(N)Gavilan's Eternal Summer,SBI h 21,...,NRR LO 145085,168843,172962
+474,F,(N)Gemstone's Misteltoe,SIA a,01-12-2004,FD LO 133118,6133,189930
+475,F,(N)Gemstone's Peek-A-Boo,SIA a 21,04-11-2004,(N)NRR LO 140045,6133,143063
+476,F,(N)Geysir's Anna Bella,PER f 03,...,NRR LO 28928,188052,122728
+477,M,(N)Geysir's Beautiful Dreamer,PER e 01 62,...,NRR LO 108479,479,478
+478,F,(N)Geysir's Butterfly,PER e 03,...,NRR LO 101242,117915,476
+479,M,(N)Geysir's Torillos Dream,PER d 03,...,NRR LO 106138,8720,480
+480,F,(N)Geysir's Tortie Kinju,PER f,...,NRR LO 30530,20398,138617
+481,F,(N)Ginger av Skillebekk,ABY o,...,NRR LO 6003,17541,15651
+482,F,(N)Gladepus Black Beauty,PER n,...,NRR LO 120198,189,517
+483,F,(N)Granerud's Humla,NFO f,...,NRR RX 52200,,187015
+484,F,(N)Grünerløkkas Amanda Hagen,NFO ns 23,...,NRR LO 122934,,
+485,F,(N)Grünerløkkas Ingrid Anna,NFO ns 03,17-04-2005,NRR LO 141407,1340,172527
+486,F,(N)Grünerløkkas Julia Magnusdotter,NFO d 22,...,NRR LO 132101,1092,493
+487,M,(N)Grünerløkkas Karolus,NFO n 09 22,...,NRR LO 127399,,
+488,M,(N)Grünerløkkas Odin Braveheart,NFO a 03,...,NRR LO 140139,172663,24705
+489,F,(N)Grünerløkkas Tamsin,NFO ns 09 22,...,(N)NRR LO 146756,103397,485
+490,F,(N)Grünerløkkas Tamsin,NFO ns 09 22,...,kat id: 305349,103397,485
+491,M,(N)Grünerløkkas Tanis R.W.,NFO ns,17-08-2003,(N)NRR LO 136666,1095,461
+492,F,(N)Grünerløkkas Thea,NFO ns,...,NRR LO 130349,,
+493,F,(N)Grünerløkkas Victoria,NFO f 09 23,12-03-2000,NRR LO 127401,124876,484
+494,F,(N)Grøtet's Zita,NFO n 09 22,...,NRR RX 55323,,
+495,F,(N)Gulliks Tirill,NFO n 23,...,NRR RX 51908,159639,128311
+496,F,(N)Hagar's Anabelle,SIA c 21,...,NRR LO 4531,,
+497,M,(N)Hagar's Byron,SIA n,04-03-1996,NRR LO 115008,177000,279
+498,M,(N)Hagar's Cappuccino,SIA b,...,NRR LO 105950,506,176991
+499,F,(N)Hagar's Deja Vu,SIA b 21,...,NRR LO 5023,,
+500,F,(N)Hagar's Fox Fashion,SIA b 21,...,SMK 3129-89,164073,499
+501,F,(N)Hagar's Kami,SIA f 21,...,NRR LO 110700,177004,180600
+502,F,(N)Hagar's Kiri,SIA g,...,NRR LO 110701,177004,180600
+503,M,(N)Hagar's Merry Mexx,SIA n 21,...,NRR LO 100532,158498,159589
+504,M,(N)Hagar's Mr Bentley,SIA n,...,SVERAK LO 103172,503,176991
+505,M,(N)Hagar's Si-Capriccio,SIA n 21,...,NRR LO 100060,175079,496
+506,M,(N)Hagar's Socrates,SIA n 21,...,NRR LO 103383,503,158501
+507,F,(N)Hagar's Solitude,SIA f 21,...,NRR LO 103837,503,180595
+508,F,(N)Hagar's Xantippe,SIA f 21,...,SVERAK LO 129976,498,507
+509,M,(N)Hamangkattens Lovejoy,PER n 22,...,NRR LO 106294,139459,167699
+510,F,(N)Hansastaden's Tequila Sunrise,NFO f 09 23,...,NRR LO 63421,185739,194154
+511,F,(N)Hansastaden's Trini,NFO f 09,28-05-1994,FD LO 79259,185739,194154
+512,F,(N)Havgapet's Ganetti,NFO f 23,...,NRR RX 54163,127155,127159
+513,F,(N)Heljato's Blue Beauty,SBI a,05-01-1995,FD LO 81313,167526,176427
+514,M,"(N)Heljato's Lucky, DM",NFO ds 09 22,04-01-1998,SVERAK RX 150610,173254,173478
+515,M,(N)Heljato's Pinnochio,NFO n 09 23,...,NRR RX 54307,127156,190360
+516,F,(N)Heljato's Rikke,NFO n 09,...,NRR RX 55030,515,132997
+517,F,(N)Hennessey's Felicia,PER f 03,...,NRR LO 114755,167726,193
+518,F,(N)Hesno-Briom's Bairrada,SIA b 21,...,NRR LO 106739,,
+519,M,(N)Hesno-Briom's Classic Tabby Demston,SIA b 21,...,NRR LO 115126,143051,518
+520,M,(N)Hesno-Briom's Cutty Sark,SIA c 21,28-09-1990,FD LO 73732,23195,143058
+521,F,(N)Hesno-Briom's Tortie Riccadonna,SIA f,14-11-1996,FD LO 99650,177000,166162
+522,M,(N)Himmeltinden's Jendor,SIA a,...,Kat ID: 296385,13560,142720
+523,M,(N)Himmeltinden's Jendor,SIA a,...,Kat ID: 312966,13561,142721
+524,M,(N)Himmeltinden's Jendor,SIA a,13-08-2005,(NO)NRR LO 142658,13561,142720
+525,M,(N)Hiro-Yoko Blue Master,BAL a 21,15-11-1995,NRR LO 114645,158623,531
+526,F,(N)Hiro-Yoko Fuji-Yama,SIA a,15-01-1990,FD LO 59777,181695,175098
+527,M,(N)Hiro-Yoko Inbetween Imir,SIA a,...,NRR RX 104482,505,190000
+528,F,(N)Hiro-Yoko Lady Natasja,BAL a,...,NRR LO 106994,527,159474
+529,M,(N)Hiro-Yoko Papageno,SIA n 21,...,NRR RX 107333,8743,190000
+530,M,(N)Hiro-Yoko Qastello,SIA d,...,NRR RX 107745,154122,173884
+531,F,(N)Hiro-Yoko Viktoria Valencia,BAL a,...,NRR LO 109483,529,528
+532,F,(N)Hiro-Yoko Xzita,BAL g,09-07-1994,NRR RX 110810,530,159474
+533,F,(N)Honey Hill's All Over Top,MCO f 22,20-12-2004,FD LO 132307,130998,578
+534,F,(N)Honey Hill's Allways around,MCO f 22,06-11-2003,FD LO 171788,130999,169559
+535,F,(N)Honey Hill's Amanda Constantin,MCO g,18-12-2008,FD LO 174926,605,572
+536,F,(N)Honey Hill's Amanda Pistash,MCO n 22,29-08-2008,FD LO 173482,130994,558
+537,M,(N)Honey Hill's American Gangster,MCO w,12-08-2007,(S)SVERAK LO 243703,1237,553
+538,M,(N)Honey Hill's Ami Ink,MCO a,01-11-2008,FD LO 174170,130994,534
+539,M,(N)Honey Hill's Angus McDonald,MCO d 22,28-10-2008,FD LO 174167,130994,589
+540,M,(N)Honey Hill's Anthrax,MCO d 22,10-11-2007,FD LO 171846,130994,534
+541,F,(N)Honey Hill's Arwen,MCO f 22,20-12-2004,FD LO 132306,130998,578
+542,F,(N)Honey Hill's Blue Diamond,MCO g,12-12-2001,NRR LO 131707,131006,551
+543,M,(N)Honey Hill's Buffalo Bill,MCO e 23,...,(N)NRR LO 122031,,
+544,M,(N)Honey Hill's Cavalli,MCO n 22,21-02-2006,FD LO 140068,157268,558
+545,F,(N)Honey Hill's Celina Bella,MCO w,21-02-2006,FD LO 140070,157268,558
+546,F,(N)Honey Hill's Chanel,MCO f 22,...,NRR LO 131710,131006,169558
+547,F,(N)Honey Hill's Chloe,MCO n 22,31-08-2009,FD LO 177844,605,534
+548,M,(N)Honey Hill's Christian Dior,MCO w 62,31-12-2005,FD LO 139483,157268,549
+549,F,(N)Honey Hill's Christiania,MCO n 22,05-09-2002,FD LO 128139,608,557
+550,M,(N)Honey Hill's Cocaine,MCO w 62,22-12-2005,FD LO 139479,157268,36970
+551,F,(N)Honey Hill's Cruella De Ville,MCO g,26-11-1999,NRR LO 126795,42630,169558
+552,F,(N)Honey Hill's Cyndi Lauper,MCO n 22,12-08-2007,FD LO 170466,1237,553
+553,F,(N)Honey Hill's Donna Karen,MCO w 62,31-12-2005,FD LO 139484,157268,549
+554,F,(N)Honey Hill's Doris Day,MCO f 22,31-08-2009,FD LO 177845,605,534
+555,M,(N)Honey Hill's Felipe Constantin,MCO e 22,18-12-2008,FD LO 174923,605,572
+556,M,(N)Honey Hill's Final Cut,MCO a,03-04-2010,(DK)FD LO 179361,130994,594
+557,F,(N)Honey Hill's Flower Power,MCO f,25-03-2001,FD LO 128137,131006,551
+558,F,(N)Honey Hill's Freedom to Speak,MCO f 22,14-12-2003,FD LO 128141,130998,578
+559,F,(N)Honey Hill's Game Over,MCO f 22,29-03-2010,(DK)FD LO 179365,130994,558
+560,M,(N)Honey Hill's Garver Ink,MCO a 22,01-11-2008,FD LO 174171,130994,534
+561,F,(N)Honey Hill's Ida,MCO w 62,14-02-2006,FD LO 140067,157268,169558
+562,F,(N)Honey Hill's Jean Genie,MCO a 22,05-09-2002,FD LO 128138,608,557
+563,F,(N)Honey Hill's Jeanne D'arc,MCO g,12-12-2001,NRR LO 131706,131006,551
+564,F,(N)Honey Hill's Just gotta have it,MCO n 22,06-11-2003,FD LO 138824,130998,169558
+565,F,(N)Honey Hill's Just gotta have it,MCO n 22,06-11-2003,NRR LO 137096,130998,169559
+566,F,(N)Honey Hill's Kat von D Ink,MCO n 22,01-11-2008,FD LO 174173,130994,534
+567,F,(N)Honey Hill's Kayleigh,MCO f 22,20-12-2004,FD LO 132308,130998,578
+568,F,(N)Honey Hill's Lara Croft,MCO n 22,...,NRR LO 129817,131006,169558
+569,F,(N)Honey Hill's Last Kiss Goodbye,MCO g 22,03-04-2010,(DK)FD LO 179362,130994,594
+570,M,(N)Honey Hill's Last Man Standing,MCO e 22,03-04-2010,(DK)FD LO 179360,130994,594
+571,F,(N)Honey Hill's Latino Girl,MCO n 23,22-12-2005,FD LO 139481,157268,36970
+572,F,(N)Honey Hill's Light Papoose,MCO g 22,10-11-2007,FD LO 171845,130994,534
+573,F,(N)Honey Hill's Lisa Marie,MCO w 62,21-02-2006,FD LO 140072,157268,558
+574,F,(N)Honey Hill's LITA(O)GO,MCO f 22,08-11-2001,(NO)NRR LO 131711,131006,169558
+575,F,(N)Honey Hill's Magica Fra Tryll,MCO f 22,26-11-1999,SVERAK LO 161966,42630,169558
+576,M,(N)Honey Hill's Maison Pistash,MCO n 22,29-08-2008,FD LO 173483,130994,558
+577,M,(N)Honey Hill's Marcus Merlin,MCO a 22,31-08-2009,FD LO 177843,605,534
+578,F,(N)Honey Hill's Mary Poppins,MCO f 22,17-11-1998,FD LO 128136,42589,169558
+579,F,(N)Honey Hill's Melis,MCO w 63,21-02-2006,FD LO 140069,157268,558
+580,F,(N)Honey Hill's Melody,MCO w 62,21-02-2006,FD LO 140071,157268,558
+581,F,(N)Honey Hill's Miami Ink,MCO n 22,01-11-2008,FD LO 174172,130994,534
+582,F,(N)Honey Hill's Mille Miraquel,MCO n 22,10-03-2008,FD LO 171847,130994,558
+583,M,(N)Honey Hill's Mr. Bean,MCO n 22,08-06-2003,FD LO 123292,130998,557
+584,F,(N)Honey Hill's Nicole Richie,MCO f,01-10-2005,FD LO 137693,607,558
+585,M,(N)Honey Hill's Nifty Wolf,MCO a,31-08-2009,FD LO 177842,605,534
+586,M,(N)Honey Hill's Nunez Ink,MCO n 22,01-11-2008,FD LO 174168,130994,534
+587,M,(N)Honey Hill's Oscar Constantin,MCO a 22,18-12-2008,FD LO 174924,605,572
+588,M,(N)Honey Hill's Paprika,MCO d 22,04-05-2002,NRR LO 132910,131006,169558
+589,F,(N)Honey Hill's Paris Hilton,MCO f 22,01-10-2005,FD LO 137692,607,558
+590,F,(N)Honey Hill's Passadena,MCO f 22,05-09-2002,FD LO 122169,608,557
+591,F,(N)Honey Hill's Phillipa K.,MCO n 23,31-12-2005,FD LO 139485,157268,549
+592,F,(N)Honey Hill's Pixie Lott,MCO f,31-08-2009,FD LO 177846,605,534
+593,M,(N)Honey Hill's Prince of Darkness,MCO n 22,10-11-2007,FD LO 171843,130994,534
+594,F,(N)Honey Hill's Puma Constantin,MCO g,18-12-2008,FD LO 174925,605,572
+595,F,(N)Honey Hill's Queen of Darkness,MCO f,10-11-2007,FD LO 171844,130994,534
+596,M,(N)Honey Hill's Scottich Fold,MCO e 22,12-12-2001,FD LO 133371,131006,551
+597,M,(N)Honey Hill's Scottich Fold,MCO e 22,...,NRR LO 131705,131006,551
+598,M,(N)Honey Hill's Snowflake,MCO w,12-08-2007,FD LO 170465,1237,553
+599,M,(N)Honey Hill's Sokrates,MCO n 22,12-08-2007,FD LO 170463,1237,553
+600,F,(N)Honey Hill's Tallulah Pistash,MCO n 22,29-08-2008,FD LO 173481,130994,558
+601,F,(N)Honey Hill's Tender Love & Care,MCO f 23,22-12-2005,FD LO 139480,157268,36970
+602,F,(N)Honey Hill's The End of Story,MCO n 22,29-03-2010,(DK)FD LO 179364,130994,558
+603,F,(N)Honey Hill's This Is It!,MCO n 22,03-04-2010,(DK)FD LO 179363,130994,594
+604,M,(N)Honey Hill's Titan Fang,MCO n 22,03-11-2009,(DK)FD LO 200662,539,553
+605,M,(N)Honey Hill's Tommy Hilfiger,MCO a 22,31-12-2005,FD LO 139482,157268,549
+606,M,(N)Honey Hill's Tommy Lee,MCO n 22,01-10-2005,FD LO 137691,607,558
+607,M,(N)Honey Hill's Tommy Steine,MCO d 22,01-02-2003,(N)NRR LO 135138,597,36970
+608,M,(N)Honey Hill's Topscore,MCO n 22,...,(N)NRR LO 124260,42589,169558
+609,F,(N)Honey Hill's Tsunami,MCO f,...,(N)NRR LO 132906,131006,169558
+610,M,(N)Honey Hill's Viking,MCO e 22,21-06-2002,(N)NRR LO 132912,131006,551
+611,M,(N)Honey Hill's Von Dutch,MCO d 22,19-03-2005,FD LO 133372,130998,169558
+612,M,(N)Honey Hill's Yosi Ink,MCO n,01-11-2008,FD LO 174169,130994,534
+613,F,(N)Honey Hill's You can't macht it Naomi,MCO n 22,...,CSCH LO 138/4/MCO,130998,557
+614,F,(N)Honey Hill's You can't match it Naomi,MCO n 22,...,(CZ)CSCH LO 138/4/MCO,,
+615,M,(N)Honeyheart's Commander in Chief,SBI b,05-04-2006,FD LO 142644,172222,629
+616,M,"(N)Honeyheart's Twisted Logic, JW",SBI a,...,(N)NRR LO 142412,172223,629
+617,F,(N)Hotcat's Amy,BRI a,...,NRR RX 108572,,
+618,F,(N)Hotcat's Daniella,BRI a,...,SVERAK RX 149152,161806,617
+619,M,(N)Hotpoint's Caesar,SBI n,...,(N)NRR LO 147778,16222,666
+620,M,(N)Hotpoint's Irresistible,SBI n,...,(N)NRR LO 152827,619,143264
+621,F,(N)Howlid's Albertine,NFO n 09,...,(N)NRR LO 61730,,187718
+622,M,(N)Howlid's Bastian,NFO d 09 23,...,(N)NRR RX 55448,,
+623,M,(N)Howlid's Hebbe Lille,NFO a 09 23,27-03-1996,(S)SVERAK RX 144875,622,187718
+624,M,(N)Huldrekatten's Harek,NFO n 22,...,1.DEKZV 143773,159628,3368
+625,M,(N)Huldrekatten's Lucas,NFO ns 23,...,(N)NRR RX 114034,,
+626,F,(N)Huldrekatten's Pinocci,NFO f 09 23,...,(N)NRR RX 54525,159615,3368
+627,M,(N)Huldrekatten's Satyr,NFO d,...,(S)SVERAK RX 84771,4792,186543
+628,M,(N)Huldrekatten's Sisu,NFO n 09,...,(S)SVERAK RX 85082,4792,186543
+629,F,(N)Iboya's Amazing Daniella,SBI n,...,(N)NRR LO 137234,175679,169048
+630,M,(N)Iboya's Great Osiris,SBI n,...,(N)NRR LO 137235,175679,169048
+631,F,(N)Ichor's Jasminka,SIA f 21,28-04-2000,NRR LO 127622,173102,1122
+632,M,(N)Ihda's Prodigny,SIA b,...,ÖVEK LO 9810688,,
+633,F,(N)In Utero's Alluring Astarte,SBI a,16-06-2005,FD LO 138319,630,304
+634,F,(N)Innocent Rose's Betty Boop,MCO a 02 21,07-04-2006,(N)NRR LO 144828,3112,173040
+635,F,(N)Ishavsbyen's Abelone,SBI a,...,NRR LO 62996,1365,44
+636,F,(N)Ishavsbyen's I Anixi,SBI n 21,11-04-1998,NRR LO 122071,183161,44
+637,F,(N)Ishavsrosen's Julie,SBI a,...,NRR LO 61649,,
+638,M,(N)Isrenna's Buster,NFO d 09 23,09-08-2000,FD LO 108183,990,160937
+639,M,(N)Izapearl's Cherokee,SBI a,...,(N)NRR LO 152515,169702,170901
+640,M,(N)Jacko's Brown Lord Baileys,BUR n,...,SVERAK LO 124661,,
+641,M,(N)Jaktvika's De Lillo,NFO ns 09,18-07-1995,(N)NRR LO 114120,161156,643
+642,F,(N)Jaktvika's Medea,NFO n,...,NRR LO 61304,,
+643,F,(N)Jaktvika's Mirabella,NFO n 09,...,NRR RX 55812,171418,642
+644,M,(N)Jaktvika's Taurus,NFO n 09 23,13-04-1992,FD RX 8898,159633,181258
+645,F,(N)Janita's Cheyenne,PER a 03 23,31-12-2000,FD LO 112920,187957,13818
+646,F,(N)Jatoba's Azima,NFO n 23,25-06-2006,(N)NRR LO 145610,761,431
+647,M,(N)Jatoba's Cicero,NFO n 09 22,03-07-2008,(S)SVERAK LO 249554,103352,646
+648,F,(N)Jeljeny's Blue Point Lady Rose,XSH a 33,29-09-1996,FD RX 11778,168629,6441
+649,F,(N)Jona's Da-Lin,KOR,...,NRR LO 100809,134417,650
+650,F,(N)Jona's Jai Lin,KOR,...,NRR LO 4945,140206,161583
+651,M,(N)Josimo Albert Aldri Mett,NFO ds 03 22,21-06-2006,(N)NRR LO 145588,172278,1342
+652,F,(N)Josimo Fanny Lykke Li,NFO f 03,26-09-2010,(DK)FD LO 201999,1343,167614
+653,M,(N)Julie's Albert Åberg,NFO a 09 22,...,SVERAK RX 56144,185590,127153
+654,F,(N)Jungle Spirit Nella Fantasia,BEN n 22 32,28-09-2007,(N)NRR LO 150206,127266,663
+655,F,(N)Juvel's Alva,NFO f,...,NRR LO 139897,993,121697
+656,M,(N)Karete's Adrian,SBI a 21,...,NRR LO 62231,220,119695
+657,F,(N)Kariholas Assita,BUR b,...,NRR LO 6098,,
+658,F,(N)Kariholas Benita,BUR n,...,NRR LO 6462,,
+659,F,(N)Kariholas Helia,BUR n,...,NRR LO 7119,162720,1379
+660,M,(N)Kariholas Kompis,BUR n,...,NRR LO 115735,162720,659
+661,F,(N)Kariholas Nanutsjka,BUR n,...,NRR LO 117624,169072,659
+662,F,(N)Karna av Moltemyr,NFO ns 23,...,NRR LO 133007,924,165193
+663,F,(N)Kashanti Tinkerbell,BEN n 22 32,18-07-2006,(N)NRR LO 146349,170701,136612
+664,M,(N)Kattehula's Ozzie,BUR c,05-02-2010,(SE)SVERAK LO 266060,124000,124003
+665,F,(N)Khanikatts Fely,SBI b,...,(N)NRR LO 130846,,
+666,F,(N)Khanikatts Katt-ti-tri,SBI b,...,(N)NRR LO 134928,171285,172494
+667,M,(N)Kiachero Inteus,SOM n,...,(NO)NRR LO 139736,178993,19415
+668,M,(N)Kiachero Raman Choovio,SOM n,...,(NO)NRR LO 144742,667,187835
+669,M,(N)Kimburu Kwa Ajili Ya Wenzi,SOK n 22,16-09-2004,FD RX 136056,6255,6254
+670,F,(N)Kitiara Aida,MCO a 03,23-12-2005,FD LO 140272,170658,134
+671,M,(N)Kjeiro's Karel Khazmal,OSH a 24,...,NRR RX 124901,,
+672,F,(N)Klungemyr Trude,NFO ns 09 23,...,NRR RX 52084,182981,144509
+673,M,(N)Kojani's Buffalo Junior,MCO es 23,...,(N)NRR LO 131391,,
+674,M,(N)Kojani's Numero Uno,MCO ns 22,16-05-2001,(N)NRR LO 131392,543,170734
+675,M,(N)Korsvik's Alfonso,PER d,09-06-2000,(S)SVERAK LO 166544,677,683
+676,F,"(N)Korsvik's Ambush, JW",PER n,10-09-2003,FD LO 126126,180971,692
+677,M,(N)Korsvik's Davidoff,PER d,...,NRR LO 122523,141058,40685
+678,F,(N)Korsvik's Hi-Di-Ho,PER f,12-02-1999,NRR LO 124387,141058,687
+679,M,(N)Korsvik's Hit And Run,PER d,18-03-2003,FD LO 121542,180971,685
+680,M,(N)Korsvik's Keep On Loving Me,PER d,03-05-1996,NRR LO 116787,130323,124795
+681,F,(N)Korsvik's Love Talk,PER e 02 62,...,SVERAK LO 184994,129842,43469
+682,M,(N)Korsvik's Nothing To Declare,PER d,...,NRR LO 131655,677,124766
+683,F,(N)Korsvik's Obsession,PER w 62,...,NRR LO 125689,141058,124766
+684,F,(N)Korsvik's Payback of Gidahmir,PER f 03,06-06-2003,FD LO 153637,682,191135
+685,F,(N)Korsvik's Precious Cargo,PER f,...,(N)NRR LO 124338,143024,124766
+686,M,(N)Korsvik's Rambling Gambling Willy,PER d,24-08-2005,FD LO 144081,13773,13777
+687,F,(N)Korsvik's Rikke,PER f,26-08-1997,NRR LO 120902,680,190575
+688,M,(N)Korsvik's Sand On My Hand,PER e,31-10-2001,(S)SVERAK LO 179173,134932,685
+689,F,(N)Korsvik's Secret Message,PER n,...,NRR LO 131656,134932,685
+690,F,(N)Korsvik's Sunseth Boulevard,PER g 03,06-06-2003,FD LO 122699,682,191135
+691,F,(N)Korsvik's Sweet Talking Woman,PER n,31-10-2001,SVERAK LO 180646,134932,685
+692,F,(N)Korsvik's Thank Heaven For Little Girls,PER a,28-06-2002,NRR LO 133483,134932,678
+693,F,(N)Korsvik's The Nicolina,PER f,...,NRR LO 133482,134932,678
+694,F,(N)Korsvik's Whiped Cream,PER e 02 62,...,(N)NRR LO 127740,,
+695,M,(N)Korsvik's Xsavier,PER a 01 62,24-05-2000,(N)NRR LO 127750,129842,24552
+696,M,(N)La Libelle Créme Modéle,BRI e,...,DNI KH 414,,
+697,M,(N)Lady House Callistus,BRI e,11-11-2003,(S)SVERAK LO 197653,152000,141506
+698,F,(N)Laksjøen's Ayla,NFO f,...,NRR LO 62246,,
+699,M,(N)Laksjøen's Baileys Birk,NFO n 09 22,...,NRR RX 55660,1259,142
+700,F,(N)Laksjøen's Helle,NFO n 23,28-09-1998,FD LO 98162,705,141713
+701,M,(N)Laksjøen's Joar,NFO ns 09 23,13-09-1997,FD LO 92266,1146,713
+702,M,(N)Laksjøen's Kvite Ulv,NFO w,19-08-1999,FD LO 105884,705,710
+703,F,(N)Laksjøen's Little Princess,BRI n,01-06-1999,SVERAK LO 163030,168959,189824
+704,F,(N)Laksjøen's Lone,NFO f,13-09-1997,FD LO 92350,1146,713
+705,M,(N)Laksjøen's Mel Gibson,NFO w,04-11-1997,FD LO 105885,1146,143
+706,M,(N)Laksjøen's Peder,NFO n 23,10-03-1998,SVERAK LO 153763,1146,141713
+707,F,(N)Laksjøen's Pia,NFO fs 23,10-04-1998,SVERAK LO 151558,1146,710
+708,F,(N)Laksjøen's Savannah,NFO ns 09 22,...,NRR LO 119059,942,710
+709,M,(N)Laksjøen's Silver Casanova,BRI ns 22 64,18-11-2001,FD LO 123080,175235,1309
+710,F,(N)Laksjøen's Synne,NFO n 09 22,30-06-1995,FD LO 105883,139,713
+711,M,(N)Laksjøen's Trym,NFO w 62,...,1.DEKZV LO 269750,705,710
+712,F,(N)Laksjøen's Tuva Madam Mim,NFO fs 09 24,19-07-1999,FD LO 101757,1146,708
+713,F,(N)Laksjøen's Ulva,NFO n 09 23,25-03-1994,FD LO 105886,699,843
+714,F,(N)Laksjøen's Vilde,NFO f 09 23,13-09-1997,FD LO 92265,1146,713
+715,M,(N)Lal Biladi Red Baron,ABY o,...,NRR LO 4436,,
+716,F,(N)Lankhmar Amidala,SPH f 09,03-09-2006,FD RX 153425,187025,19
+717,F,(N)Laskalinas Coco Chanel,BEN n 22 32,...,(N)NRR RX 164056,146567,654
+718,F,(N)LaToya's Juanita,PER n 22,...,NRR LO 105075,1268,719
+719,F,(N)LaToya's Miss Sabrina,PER n,...,NRR LO 102244,179216,4737
+720,F,(N)Lauvåsens Chira,SBI n,...,NRR LO 60650,179251,154967
+721,M,(N)Lauvåsens Truls,NFO ns 09 23,...,NRR RX 53343,,
+722,F,(N)Lavaihoya Aniya,BUR c,17-06-2003,SVERAK LO 192258,6745,1111
+723,F,(N)Leospot Benga Majenka,BEN n 24,11-09-2011,(DK)FD RX 206794,163863,333
+724,F,(N)Li Tai Pu's Edelweiss,PER n 22,13-11-2002,FD LO 120869,209,194
+725,M,"(N)Li Tai Pu's Zirkolloy, DM",PER d,20-08-1996,(S)SVERAK LO 144081,168893,178973
+726,F,(N)Libet's Mikkeline,NFO d 09,15-03-2001,SVERAK LO 183356,167571,47
+727,F,(N)Libet's Tachina,NFO f 23,...,NRR LO 120482,1085,1107
+728,F,(N)Libitum Hayabusa av Øienfryd,OCI bs 24,29-12-2005,Kat ID: 283152,171236,137335
+729,F,(N)Libitum Hayabusa av Øienfryd,OCI bs 24,29-12-2005,Kat ID: 313833,171236,137335
+730,F,"(N)Libraaten Avedine, DM",NFO n 23,...,NRR RX 52983,186537,405
+731,F,(N)Lilletun's Dakota,MCO f 22,20-02-2002,NRR LO 132417,1015,6400
+732,F,(N)Lilletun's Fluffy Diamond,MCO n,...,NRR LO 135367,608,542
+733,F,(N)Lilletun's Indiana,MCO n 22,01-01-2005,FD LO 133391,130998,732
+734,M,(N)Lilletun's James Bond,MCO d 22,28-01-2005,FD LO 133861,608,542
+735,F,(N)Lindbrekkas Askepott,NFO n 22,...,NRR RX 54622,,
+736,F,(N)Lindbrekkas Bonny,NFO n 23,...,NRR RX 55134,194286,127162
+737,M,(N)Lindbrekkas Lille Bailey's,NFO e 09 22,26-04-1998,(N)NRR LO 122233,178590,126071
+738,M,(N)Lindbrekkas Simba,NFO n 22,...,(N)NRR LO 115692,764,736
+739,F,(N)Lindbrekkas Steffi,NFO f 09 22,13-11-2005,(N)NRR LO 143505,166236,741
+740,F,(N)Lindbrekkas Tasha,NFO f 09 22,...,(N)NRR LO 134085,166236,741
+741,F,(N)Lindbrekkas Tzaronda,NFO f 09 22,08-05-2000,(N)NRR LO 128255,737,736
+742,F,(N)Linreiten's Arabella,BUR b,...,NRR LO 7015,812,658
+743,M,(N)Lisætta Choco Bruse,BUR b,...,NRR LO 6517,,
+744,F,(N)Lisætta Coco Ludmilla,BUR b,11-01-1995,NRR LO 111780,743,747
+745,F,(N)Lisætta Donna Kattarina,BUR c,...,NRR LO 5571,143355,140639
+746,F,(N)Lisætta Ecce Super Soleil,BUR j,12-09-1996,FD LO 91106,749,119216
+747,F,(N)Lisætta Fernanda,BUR c,...,NRR LO 6671,,
+748,F,(N)Lisætta Lilliane,BUR c,...,NRR LO 6108,40,745
+749,M,(N)Lisætta Super Boy,BUR c,...,NRR LO 7106,143353,748
+750,M,(N)Loanto's Amigo,SOM n,...,NRR LO 60297,462,464
+751,M,(N)Loanto's Blue Borden,ABY a,...,NRR LO 5780,1058,7731
+752,M,(N)Loanto's Carlos,SOM o,...,NRR LO 61379,750,7731
+753,F,(N)Loanto's Electric Emma,SOM n,...,NRR LO 61518,751,464
+754,F,(N)Loanto's Fawn Irina,SOM p,...,NRR LO 62125,752,753
+755,M,(N)Lotte Menotte's Dark Moon,NFO n 23,...,NRR RX 55727,185739,626
+756,F,(N)Lotte Menotte's Diva,NFO d 09 23,...,NRR RX 55725,,
+757,M,(N)Lotte Menotte's Hannibal,NFO d 23,11-04-1994,NRR LO 112274,159628,756
+758,F,(N)Lotte Menotte's Jouline,NFO n,13-03-1995,NRR LO 112386,21694,10316
+759,M,(N)Lotte Menotte's Nemo,NFO n,...,NRR LO 122663,767,758
+760,M,(N)Lotte Menotte's Rasputin,NFO d 09 23,29-04-2003,FD LO 122205,759,1096
+761,M,(N)Lottehuset's Amos,NFO n 22,...,(N)NRR LO 137751,,
+762,M,(N)Lottehuset's Charlie,NFO n 22,...,(NO)NRR LO 139266,,
+763,M,(N)Lucky Balder,NFO n 22,...,NRR RX 53676,1141,117999
+764,M,(N)Lucky Chalar Whisky,NFO d,22-03-1995,NRR LO 112502,458,126068
+765,M,(N)Lucky Joker,NFO n 23,...,NRR RX 53675,1141,117999
+766,F,(N)Lucky Kristina,NFO n 23,...,NRR RX 53678,,
+767,M,(N)Lucky Nicky - Boy,NFO n 09 23,10-09-1995,NRR LO 115287,169817,126068
+768,M,(N)Lucky Tigergutt,NFO n 23,...,NRR LO 119090,,
+769,M,(N)Lucky Uffe,KOR,...,(FIN)SRK LO 26369,154812,161590
+770,F,(N)Luksefjellet's Blå Freia,NFO a 09,05-03-1992,FD LO 67146,145,245
+771,M,(N)Luksefjellet's Flash Gordon,NFO a 09 22,...,FFH LO 40970,,
+772,F,(N)Luksefjellet's Prinsesse Alvilde,NFO n 09 22,24-11-1992,FD LO 70775,145,245
+773,M,(N)Lyon's Amaranthoe,PER d,...,SVERAK LO 143683,,
+774,M,(N)Lyon's Good Looking,PER ns 03 22,31-07-1998,NRR LO 122950,24936,172630
+775,M,(N)Löventun's Adrian,NFO n,...,NRR LO 136264,1095,662
+776,F,(N)Løvetun's Arabella,NFO fs 09,...,(NO)NRR LO 136266,,
+777,F,(N)Løvetun's Julie-Cecilie,NFO d 09 22,01-12-2004,(SE)SVERAK LO 207662,168756,428
+778,M,(N)Mai Sita Bia-Boreas,BAL n,19-04-1995,FD LO 82047,173119,528
+779,M,(N)Mai Sita Brown-Bonhomie,OLH b,...,NRR LO 112017,173119,528
+780,F,(N)Mai Sita Dark-Duchessa,OLH n,...,NRR LO 115558,779,528
+781,M,(N)Mai Sita Falcon Eye,BAL a 21,01-11-1997,FD LO 94447,158977,780
+782,M,(N)Mai-Tai's Fender,SBI a,...,Kat ID: 227946,170177,13461
+783,F,(N)Majmel's Bagheera,SBI n,21-05-2004,(N)NRR LO 138952,1312,665
+784,F,(N)Mandela's Sevgili,TUV d 62,...,SVERAK LO 184848,123698,102882
+785,M,(N)Mandela's Yamyam,TUV d 62,19-03-2003,SVERAK RX 191706,176122,102882
+786,F,(N)Mandela's Yaramaz,TUV d 62,31-08-2005,(N)NRR LO 142958,18269,128925
+787,F,(N)Mandela's Yirmi,TUV e 62,08-11-2004,(S)SVERAK LO 246357,122806,102882
+788,F,(N)Manhunter's Bring Me Luck,OSH n 24,22-10-2009,(DK)FD LO 158464,123636,789
+789,F,(N)Manhunter's Carrie Bradshaw,OSH n 24,...,(NO)NRR LO 153570,123724,798
+790,F,(N)Manhunter's Check Me Out,OSH fs 24,30-03-2013,(DK)FD LO 213817,90784,11419
+791,F,(N)Manhunter's Define The World,XSH n 09,02-03-2012,(DK)FD RX 210670,121992,799
+792,F,(N)Manhunter's Dreams Take Time,PEB x n 83,02-03-2012,(DK)FD RX 210668,121992,799
+793,F,(N)Manhunter's Fascination,PEB b,02-03-2012,(DK)FD RX 210666(RR),121992,799
+794,M,(N)Manhunter's For Ladies Only,OSH ns 24,30-03-2013,(DK)FD LO 213820,90784,11419
+795,M,(N)Manhunter's Good As Gold,OSH ds 24,30-03-2013,(DK)FD LO 213819,90784,11419
+796,F,(N)Manhunter's Less Is More,OSH f 24,30-03-2013,(DK)FD LO 213822,90784,11419
+797,M,(N)Manhunter's Mygodwhata Face,XSH  b 03,02-03-2012,(DK)FD RX 210673,121992,799
+798,F,(N)Manhunter's News From Heaven,OSH a,24-08-2007,(NO)NRR LO 149350,874,132846
+799,F,(N)Manhunter's News From Heaven,OSH a,24-08-2007,(DK)FD LO 210560,874,132847
+800,F,(N)Manhunter's Perfectly Enough,PEB x n 83,02-03-2012,(DK)FD RX 210669,121992,799
+801,F,(N)Manhunter's Second To None,OSH ds 24,30-03-2013,(DK)FD LO 213821,90784,11419
+802,M,(N)Manhunter's Something Special,OSH ns,30-03-2013,(DK)FD LO 213818,90784,11419
+803,F,(N)Manhunter's Whos Smiling Now,PEB n,02-03-2012,(DK)FD RX 210667(RR),121992,799
+804,M,(N)Manhunter's Xquisite Chocolade,PEB x b 83,02-03-2012,(DK)FD RX 210672,121992,799
+805,M,(N)Manhunter's Year In Review,XSH  b 09,02-03-2012,(DK)FD RX 210671,121992,799
+806,F,(N)Mannie Babushka,SBI g,11-04-1990,FD LO 62061,234,16647
+807,F,(N)Marekatten's Emmelie,NFO n,13-02-1988,FD RX 7799,173,121693
+808,F,(N)Marekatten's Miriam,NFO a,...,NRR RX 53379,,
+809,F,(N)Mariskogens Briza,NFO ns 09 24,...,(N)NRR LO 156878,134045,1277
+810,M,(N)Mariskogens Cicer,NFO ns 22,15-12-2010,(SE)SVERAK LO 274493,1067,168397
+811,F,(N)Mariskogens Erica,NFO ns 09 22,29-06-2011,(DK)FD LO 206073,839,809
+812,M,(N)Massita's Asam,BUR n,...,NRR LO 6587,1378,657
+813,M,(N)Mentzoni's Mussolini,BAL b 21,...,NRR LO 109879,162925,150078
+814,F,(N)Merridancers Aurora Borealis,MCO f,...,NRR LO 135404,170956,546
+815,F,(N)Merridancers Blue Pearl,MCO a,...,(N)NRR LO 146893,146450,75
+816,F,(N)Merridancers Daisy of Thunder,MCO g,07-09-2003,NRR LO 136842,170962,546
+817,M,(N)Merridancers Fellow,MCO a,...,(N)NRR LO 138261,108,814
+818,M,(N)Merridancers Hellfire,MCO d 22,...,FPL LO 2438,87,814
+819,M,(N)Merridancers Puma,MCO a,...,(N)NRR LO 151831,817,815
+820,F,(N)Merridancers Risky,MCO n,07-09-2003,(N)NRR LO 136843,170962,546
+821,M,"(N)Mestro's Akilles, JW",NFO n 03 24,02-03-2005,(S)SVERAK LO 211417,834,273
+822,F,(N)Mestro's Corona,NFO f 09 24,...,(FI)SRK LO 70560,,
+823,M,(N)Mestro's Diablo,NFO n 09,...,NRR RX 112304,159617,159
+824,F,(N)Mestro's Dorothy,NFO f 09,...,NRR RX 112303,159617,159
+825,F,(N)Mestro's Galaxie,NFO n 09 24,07-07-2003,(N)NRR LO 136732,826,171394
+826,M,(N)Mestro's Gandalf,NFO n 09 24,...,(N)NRR LO 132350,18768,273
+827,M,(N)Mestro's Goliat,NFO n 23,18-01-1996,SVERAK RX 140475,163421,168930
+828,M,(N)Mestro's Inakos,NFO ds 23,...,NRR LO 116153,942,159
+829,F,(N)Mestro's Jade,NFO n,...,NRR LO 116827,823,168930
+830,F,(N)Mestro's Lancia,NFO f 09 24,07-07-2003,(S)SVERAK LO 214597,826,171394
+831,M,(N)Mestro's Mikkel,NFO n 22,...,NRR LO 122191,828,829
+832,F,(N)Mestro's Primera,NFO ds 23,...,NRR LO 123719,828,824
+833,F,(N)Mestro's Silver Silvana,NFO fs 22,12-04-2000,FD LO 105700,171392,832
+834,M,(N)Mestro's Valentino,NFO n 09 23,25-11-2001,(N)NRR LO 131547,167568,171394
+835,M,"(N)Migoto's Alvin, JW",NFO n 03 24,...,(N)NRR LO 148019,170874,739
+836,F,(N)Migoto's Cia Silver Star,NFO as 24,05-04-2008,FD LO 173322,173564,489
+837,M,"(N)Migoto's Cornelius, JW",NFO as 24,05-04-2008,(NO)NRR LO 152010,173564,489
+838,M,(N)Migoto's Embrik,NFO as 09 22,14-12-2008,FD LO 176213,170202,489
+839,M,"(N)Migoto's Enok, JW",NFO ns 03 22,...,(N)NRR LO 153837,170202,489
+840,M,(N)Migoto's Isak,NFO n 09 22,06-04-2010,(DK)FD LO 180014,171993,739
+841,F,(N)Migoto's Mone,NFO n 22,19-11-2010,(DK)FD LO 202794,49504,1137
+842,F,(N)Mikkelmay's Brun Angelica,SBI n,04-03-2007,(N)NRR LO 148098,1367,783
+843,F,(N)Miosenta's Karolina,NFO n 09,...,NRR LO 61283,1366,141
+844,F,(N)Miridania's Abigajil,SBI e 21,02-08-2007,FD LO 149655,1263,14074
+845,M,(N)Miridania's Abraham,SBI n 21,02-08-2007,FD LO 149654,1263,14074
+846,F,(N)Miridania's Agape,SBI f 21,02-08-2007,FD LO 149656,1263,14074
+847,F,(N)Miridania's Batseba,SBI f 21,11-03-2008,FD LO 172232,1263,14074
+848,M,(N)Miridania's Benjamin,SBI n,11-03-2008,FD LO 172231,1263,14074
+849,F,(N)Miridania's Cedar,SBI f,10-05-2008,(DK)FD LO 205480,13984,1264
+850,F,(N)Miridania's Fiona,SBI j 21,10-09-2009,(DK)FD LO 206275,84828,14074
+851,F,(N)Miridania's Galileah,SBI g 21,20-03-2010,(DK)FD LO 179655,84828,844
+852,M,(N)Miridania's Gideon,SBI e 21,20-03-2010,(DK)FD LO 179653,84828,844
+853,M,(N)Miridania's Goliath Dipsacus,SBI e,20-03-2010,(DK)FD LO 179654,84828,844
+854,F,(N)Miridania's Hagar,SBI f,04-04-2010,(DK)FD LO 200899,84828,1264
+855,F,(N)Miridania's Hannah,SBI f 21,04-04-2010,(DK)FD LO 200900,84828,1264
+856,F,(N)Miridania's Isabella,SBI g,27-06-2010,(DK)FD LO 205479,84828,73833
+857,M,(N)Miridania's Jakob,SBI e 21,19-02-2011,(DK)FD LO 202686,84828,844
+858,M,(N)Miridania's Job,SBI e 21,19-02-2011,(DK)FD LO 202687,84828,844
+859,F,(N)Miridania's Jokebed,SBI g 21,19-02-2011,(DK)FD LO 202685,84828,844
+860,M,(N)Miridania's Keila,SBI d 21,12-03-2011,(DK)FD LO 205071,84828,14074
+861,F,(N)Miridania's Kitti,SBI f 21,12-03-2011,(DK)FD LO 205073,84828,14074
+862,M,(N)Miridania's Kyros,SBI d,12-03-2011,(DK)FD LO 205072,84828,14074
+863,F,(N)Miridania's Lydia,SBI n,19-03-2011,(DK)FD LO 205308,84828,73833
+864,M,(N)Miridania's Noah,SBI n,13-07-2011,(DK)FD LO 208391,84828,14074
+865,M,(N)Miridania's Aaron,SBI d 21,02-08-2007,FD LO 149653,1263,14074
+866,F,(N)Misty Juvel Black Smoke,PER ns,07-10-1995,NRR LO 113994,509,11683
+867,F,(N)Misty Love of Destiny,PER n 22,...,NRR LO 115611,,
+868,F,(N)Misty Sweet Thing,PER f 22,02-12-1998,NRR LO 124139,13801,204
+869,F,(N)Misty Wanda,PER g,20-06-1997,NRR LO 119219,10238,1105
+870,M,(N)Mixed Emotion's Paparazzi,BAL b,13-02-1998,(N)NRR LO 122024,178956,173121
+871,M,(N)Molléns Affection,PER e,12-12-1999,NRR LO 127067,456,145147
+872,F,(N)Morcheeba's Between Sheets,OSH c 03 24,07-03-2005,FD LO 136857,876,122096
+873,F,(N)Morcheeba's Delicious,OSH c 24,09-07-1999,NRR LO 125884,323,132843
+874,M,(N)Morcheeba's Legolas,OSH n 03,08-05-2004,(DK)FD LO 203901,119600,122096
+875,M,(N)Morcheeba's Lestat,OSH n 24,18-12-2000,NRR LO 129441,966,873
+876,M,(N)Morcheeba's Neo,OSH c 24,...,NRR LO 137575,875,148551
+877,F,(N)Mossen's Obtain The Best 4 Sidetassen,PER fs 02 62,...,(SE)SVERAK LO 193267,,
+878,F,(N)Mother Earth's Cocaine,MCO w,21-06-2008,FD LO 173917,97644,881
+879,F,(N)Mother Earth's Gipsy Lady,MCO n 23,06-09-2003,FD LO 125346,97781,609
+880,M,(N)Mother Earth's Grand Canyon,MCO d 23,09-07-2004,NRR LO 139350,97781,563
+881,F,(N)Mother Earth's Idaho,MCO f 24,...,NRR LO 143783,880,883
+882,F,(N)Mountain Lynx's Athene,MCO n,...,NRR LO 135747,1017,147600
+883,F,(N)Mountain Lynx's Cheridans,MCO n 09,28-05-2004,NRR LO 138997,122988,882
+884,F,(N)Mountain Lynx's Curacao,MCO a,28-05-2004,FD LO 130213,122988,882
+885,M,(N)Movatn's Remus,NFO ds 09 23,...,NRR RX 55067,927,159649
+886,F,(N)Mushanga Joyride,PER n,...,NRR LO 112482,167725,149040
+887,M,(N)Mushanga Mr.Boombastic,PER n,07-10-1996,NRR LO 117252,168909,886
+888,F,(N)Mushanga Peppermint,PER f,16-11-1997,SVERAK LO 151556,168909,886
+889,M,(N)Mydele's Midas,MCO e 22,02-02-2005,NRR LO 141062,145655,154586
+890,M,(N)Mydele's Moses,MCO d 22,02-02-2005,FD LO 133729,145655,154586
+891,M,(N)Mydele's Odin,MCO n 09 24,22-01-2008,FD LO 176639,3112,154586
+892,F,(N)Mykjåkatten's Bonita,NFO fs 09,24-02-2004,(N)NRR LO 137785,904,169261
+893,M,(N)Mykjåkatten's Casanova,NFO d 09 22,04-08-2004,(SE)SVERAK LO 203929,904,169261
+894,M,(N)Mykjåkatten's Hero,NFO a 09,...,(N)NRR LO 146091,170976,892
+895,M,(N)Mykjåkatten's Isak,NFO w,11-06-2008,FD LO 175683,894,171
+896,M,(N)Myrtekransen's Ariel,NFO w,...,NRR LO 148047,398,169
+897,F,(N)Myrtekransen's Camelia,NFO w,16-04-2008,FD LO 172018,896,1212
+898,M,(N)Myrtekransen's Constantin,NFO w 64,16-04-2008,FD LO 172019,896,1212
+899,F,(N)Myrtekransen's Helene,NFO n 22,18-05-2010,(DK)FD LO 200406,48526,173819
+900,F,(N)Mythos Klio,KOR,...,NRR LO 112702,192904,911
+901,F,(N)Maalselven's Bonita,NFO d 09 23,...,NRR LO 62631,403,402
+902,F,(N)Mårbakken's Therese,NFO f 09 23,...,SVERAK RX 153757,,
+903,F,(N)Nakimo's Black Beauty,NFO n 09,...,NRR RX 55492,,
+904,M,"(N)Nakimo's Bulbasaur, JW",NFO ns 09,14-10-2002,(NO)NRR LO 134190,174535,185500
+905,M,(N)Nakimo's Dakota,NFO a 09,01-06-1997,NRR RX 119442,1044,903
+906,F,(N)Nakimo's Eevee,NFO n 09,14-10-2002,SVERAK LO 186397,174535,185500
+907,M,(N)Nakimo's Figaro,NFO n 24,...,NRR LO 125186,768,185500
+908,F,"(N)Nakimo's Yasmine, DM",NFO n 09 22,07-03-2000,SVERAK LO 163733,907,999
+909,M,(N)Nilsstra Jesper,NFO ns 25,...,NRR LO 61883,186998,169271
+910,M,(N)Nilsstra Rasken,NFO n 25,02-06-1991,FD LO 65611,186998,169271
+911,F,(N)Nin Frøya,KOR,...,NRR LO 5458,134417,161592
+912,F,(N)Nin Lili,KOR,...,SRK LO 12905,140206,161592
+913,M,(N)Norden's Amadeus,NFO d 23,...,NRR RX 54486,1217,1210
+914,M,(N)Norden's Ceasar,NFO n 23,...,FHK K-635 K,1217,73
+915,F,(N)Norden's Drott,NFO a 09 23,08-07-1990,FD LO 72017,1217,187122
+916,M,(N)Norden's Frode,NFO d 22,...,NRR LO 61671,913,512
+917,F,(N)NordicLynx's Touch of Magic,MCO fs 22,25-03-2006,(N)NRR LO 150393,142190,123100
+918,M,(N)Nordlibakken's Castro Braveheart,NFO ns,15-02-2006,FD LO 142631,488,163820
+919,M,(N)Nordlibakken's Egir,NFO ns 23,14-01-2007,(N)NRR LO 146703,171115,155616
+920,F,(N)Nordlibakken's Esther,NFO ns 23,14-01-2007,FD LO 147642,171115,155616
+921,F,(N)Norodden Dina,NFO n 09 25,11-10-1993,NRR LO 63026,909,1013
+922,F,"(N)Norodden Dyveke, DM",NFO ns 25,...,NRR 63025,,
+923,M,(N)Norodden Eirik Blødoks,NFO n 25,11-07-1995,NRR LO 114686,168258,921
+924,M,(N)Norodden Halvdan Svarte,NFO ns,...,NRR LO 125515,923,147023
+925,M,(N)Norodden Leo,NFO es 23,06-05-1988,FD RX 5862,929,186551
+926,M,(N)Norodden Lodin,NFO es 09 23,...,NRR RX 52516,141445,179253
+927,M,(N)Norodden Molte,NFO es 09 23,...,NRR RX 52515,141445,179253
+928,F,(N)Norodden Ruska,NFO fs 03 24,20-09-2009,(DK)FD LO 200003,931,930
+929,M,(N)Norodden Sylve,NFO ns 09 23,...,NRR RX 52147,141445,179253
+930,F,(N)Norodden Tyri,NFO f 09 24,...,(N)NRR LO 150400,211,7112
+931,M,(N)Norodden Ull,NFO ds 09 24,...,(N)NRR LO 151213,924,173533
+932,F,(N)Norodden Yma,NFO fs 09 22,12-02-2011,(DK)FD LO 203740,931,930
+933,F,(N)Nostetoppen's Paint It Red,MCO d 23,...,NRR LO 138729,170993,37026
+934,F,(N)Nøstetoppen's Piccabo-Street,MCO f 23,29-06-2003,SVERAK LO 196304,170993,95
+935,F,(N)Oliveroci's Bang-A-Boomerang,OCI o 24,24-06-2006,(S)SVERAK LO 225349,168584,1350
+936,F,(N)Oliveroci's Ella,OCI ns 24,10-02-2007,FD LO 152555,119213,154857
+937,M,(N)Ollendorff's Anton Berg,NFO n 09 22,12-08-1997,FD LO 94517,943,10955
+938,M,(N)Ollendorff's Columbus,NFO d,...,NRR RX 54027,122214,190969
+939,M,(N)Ollendorff's Darwin,NFO d 09,...,SRK RX 59059,173520,190969
+940,F,(N)Ollendorff's Dione,NFO f 23,...,NRR LO 61632,173520,177036
+941,M,(N)Ollendorff's Edison,NFO n 09 22,...,NRR LO 62695,173520,190969
+942,M,(N)Ollendorff's Egil Skallagrimsson,NFO ns 09 23,...,(N)NRR LO 63488,168258,1278
+943,M,(N)Ollendorff's Einstein,NFO d 09 23,...,NRR LO 62693,173520,190969
+944,F,(N)Ollendorff's Frøia,NFO n 09 23,...,NRR RX 51867,187014,14768
+945,F,(N)Ollendorff's Frøya,NFO a 09 23,...,NRR RX 51866,187014,14768
+946,M,(N)Ollendorff's Fønix,NFO n 09 23,...,FD RX 4407,187014,14768
+947,F,(N)Ollendorff's Huldra,NFO ns 22,...,NRR LO 63484,168258,1278
+948,M,(N)Ollendorff's Larsen Special,NFO n 09 23,...,NRR LO 61634,173520,177036
+949,M,(N)Ollendorff's Mefisto,NFO n 22,...,NRR LO 63174,941,10955
+950,F,(N)Ollendorff's Nattens Dronning,NFO n 23,...,NRR LO 60734,159628,177036
+951,F,(N)Ollendorff's Shani,NFO ns 23,...,NRR LO 62691,159621,177036
+952,F,(N)Ollendorff's Svedske,NFO n,08-11-1996,FD LO 92650,163421,947
+953,M,(N)Ollendorff's Tordenskjold,NFO n 09,...,SVERAK RX 103948,173077,190969
+954,F,(N)Ollendorff's Turbo Pascalina,NFO n 09 22,...,NRR RX 53958,159617,944
+955,F,(N)Ollendorff's Zuzuki,NFO a 09 23,...,NRR RX 52501,,
+956,F,(N)Omaheni's Edina,BUR a,15-11-2000,FD LO 107763,1066,168278
+957,M,(N)Omaheni's Elias,BUR b,...,NRR LO 129238,1066,168278
+958,F,(N)Palmberg's Adele,SBI f 21,...,(NO)NRR LO 128232,170624,636
+959,F,(N)Perfic's Blotched Bambina,BRI n 22,...,NRR LO 109655,141613,1353
+960,M,(N)Perlemor's Brave Conan,SBI n 21,05-01-2005,FD LO 135148,170802,168638
+961,F,(N)Perlemor's Delightful Lady,SBI c,...,(N)NRR LO 147036,170802,21
+962,M,(N)Perlemor's Ever Lasting Beethoven,SBI c,...,(N)NRR LO 149260,168854,21
+963,F,(N)Philipp's Angel Sirikit,SIA b 21,...,NRR LO 114709,,
+964,M,(N)Philipp's Chiq,SIA b 21,29-11-1995,(S)SVERAK LO 166396,143051,115
+965,M,(N)Philipp's Classic Charm,SIA n 21,...,NRR LO 126596,519,271
+966,M,(N)Philipp's Classic Stingray,SIA n,12-03-1995,NRR LO 111852,23197,115
+967,F,(N)Philipp's Liberty Bell,SIA n,12-03-1995,NRR LO 111849,23197,115
+968,M,(N)Pontifex Aquila,DRX ns,18-02-2009,(DK)FD LO 200490,161310,24323
+969,F,(N)Poten's Dizzy,NFO f 09 24,...,NRR LO 139405,167571,1036
+970,F,(N)Poten's Dizzy,NFO f 09 24,25-07-2004,(NO)NRR LO 139405,167571,1036
+971,F,(N)Purrbox Angel Eyes,PER g,...,NRR LO 105622,,
+972,F,(N)Purrbox Baby Blue,PER a,17-04-1998,NRR LO 122730,136287,187191
+973,M,(N)Purrbox Back in Black,PER n,23-04-2004,SVERAK LO 203828,142320,974
+974,F,(N)Purrbox Charbonnie Blossom,PER n,...,NRR LO 125402,137110,976
+975,F,(N)Purrbox Diva Line,PER f 22,03-04-1997,FD RX 12377,167738,174765
+976,F,(N)Purrbox Fantasy,PER f 33,...,NRR LO 119537,,
+977,M,(N)Purrbox Hallmark,PER d 33,03-06-1997,NRR LO 119539,136287,160923
+978,F,(N)Purrbox Heatwave,PER f,24-05-1994,NRR LO 110285,136287,168870
+979,F,(N)Purrbox Magic Melody,PER n 33,17-06-1997,FD LO 92480,181436,137112
+980,F,(N)Purrbox Magic Spring NFS,PER n 33,...,NRR LO 115719,181436,137112
+981,F,(N)Purrbox Olympia,PER w 62,08-07-1996,FD LO 91790,136287,187191
+982,F,(N)Purrbox Spotlight,PER f,...,NRR LO 113073,137110,168870
+983,M,(N)Purrbox Tablue,PER a 22,28-05-1997,NRR LO 119694,167738,174757
+984,F,(N)Purrbox Topas,PER g 33,...,NRR LO 110289,,
+985,M,(N)Purrbox Trendsetter,PER a 33,...,SVERAK LO 109548,124381,9647
+986,M,(N)Purrbox Zach,PER n 22,25-02-1999,FD LO 101110,988,982
+987,F,(N)Purrbox Zignature,PER n 21 33,24-03-1998,FD LO 96958,137110,174757
+988,M,(N)Purrbox Zodiac,PER n 21 33,...,NRR LO 122215,137936,980
+989,M,(N)Pågel's Apollon,SIA n 21,06-07-2000,SRK LO 24577,966,143054
+990,M,(N)Påveskardet's Djengis Khan,NFO ds 09 23,...,NRR LO 117630,169817,172786
+991,F,(N)Påveskardet's Fanny Rose,NFO n 09,...,(N)NRR LO 152342,171115,1390
+992,F,(N)Påveskardet's Jesse Jo,NFO n,27-11-2010,(DK)FD LO 202497,172661,991
+993,M,(N)Påveskardet's King Mancini,NFO n,...,NRR LO 123751,169817,172786
+994,M,(N)Påveskardet's King Mancini,NFO n,...,Kat ID: 296602,169817,172786
+995,M,(N)Påveskardet's King Mancint,NFO n,...,Kat ID: 285231,169817,172786
+996,F,(N)Påveskardet's Linnea Rosé,NFO ns 09,15-10-1998,FD LO 98470,169817,172786
+997,F,(N)Quinsy's Lacy,NFO n 09 24,07-12-1999,(N)NRR LO 126634,183808,998
+998,F,(N)Quinsy's Lady Amy,NFO n 09 22,...,NRR LO 117352,,
