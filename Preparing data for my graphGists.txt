@@ -1,0 +1,31 @@
+Preparing data for my graphGists
+
+
+q "Select c1,c2,c3,c4,c5,c6,c7,c8 from all.cvs where substr(c4,1,3) in (ACS,'ASS','BOM','SFL','NEM','THA','AMS','SNO','CYM','GRX','SFS','ACL','DSP','KBS','SRL','SRS','JBT')" > smaller_breeds.csv
+
+q "Select c1,c2,c3,c4,c5,c6,c7,c8 from all.cvs where substr(c4,1,3) in (ACS,'ASS','BOM','SFL','NEM','THA','AMS','SNO','CYM','GRX','SFS','ACL','DSP','KBS','SIN','SRL','SRS','JBT','PEB')" > small_breeds.csv
+
+
+#creating data for the shorter version
+q "Select c1,c2,c3,c4,c5,c6,c7,c8 from all.cvs where substr(c4,1,3) in ('ACS','ASS','BOM','SFL','NEM','THA','SRL','SRS','JBT')" > gist2_breeds.csv
+
+
+#reduce dataset even further by removing some breeds and excluding all cats with no parents
+q "Select c1,c2,c3,c4,c5,c6,c7,c8 from all.csv where substr(c4,1,3) in ('ACS','ASS','BOM','SFL','NEM','THA','SRL','SRS','JBT') and c7 <> '' AND c8 <> ''" > gist3_breeds.csv
+
+#convert all cats to cypher format
+q "select '(c'||c1||':Cat {id:#'||c1||'#, gender:#'||c2||'#}), (c'||c1||')-[:IS_BREED]->('||lower(substr(c4,1,3))||'),' from gist3_breeds.csv" | sed -e 's/#/\"/g' > gist2_breeds.cypher
+
+#generate all dam and sire relations
+q "select '(c'||c1||')-[:DAM]->(c'||c8||'),' from gist3_breeds.csv where not c8 = ''" > gist2_dam_relations.cypher
+q "select '(c'||c1||')-[:SIRE]->(c'||c7||'),' from gist3_breeds.csv where not c7 = ''" > gist2_sire_relations.cypher
+
+smaller: created 915 nodes and 1560 relationships
+gist2: created 416 nodes and 656 relationships
+
+
+
+
+MATCH (a:Cat)-[:DAM|SIRE*0..3]-(b) 
+WHERE c.id='9883' 
+RETURN a,b
