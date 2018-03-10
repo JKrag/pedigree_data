@@ -1,0 +1,500 @@
+   19  git init Pedigraph
+   20  cd Pedigraph/
+   21  git st
+   22  cd ..
+   23  rebash
+   24  git achievements 
+   25  git init Pedigraph
+   26  cd Pedigraph/
+   27  ll
+   28  cd Pedigraph/
+   29  ll
+   30  cd ..
+   31  subl .
+   32  cd Pedigraph/src/main/scala/
+   33  ll
+   34  mcd dk
+   35  mcd kattegenetik
+   36  mcd hoover
+   37  touch ScrapeActor.scala
+   38  sbt
+   39  ...
+   40  ...
+   41  ...
+   42  sbt
+   43  sbt clean update package
+   44  sbt clean compile
+   45  sbt clean compile
+   46  sbt clean compile
+   47  sbt clean compile
+   48  sbt compile
+   49  sbt compile
+   50  sbt compile
+   51  sbt compile
+   52  sbt compile
+   53  cd ..
+   54  ll
+   55  mkdir grab
+   56  cd grab
+   57  pip install requests
+   58   
+   59  $ pip install beautifulsoup4 
+   60  pip install beautifulsoup4 
+   61  ll
+   62  python grabFD.py 
+   63  python grabFD.py 
+   64  python grabFD.py 
+   65  python grabFD.py 
+   66  python grabFD.py 
+   67  python grabFD.py 
+   68  python grabFD.py 
+   69  python grabFD.py 
+   70  python --version
+   71  ll
+   72  cat results.csv 
+   73  ll
+   74  rm results1-1000.csv 
+   75  ll
+   76  cat results45-50.csv 
+   77  subl results45-50.csv 
+   78  neo4j restart
+   79  neo4j status
+   80  neo4j start
+   81  java --version
+   82  java -version
+   83  ps aux
+   84  ps aux |grep neo
+   85  ll
+   86  ll -h
+   87  ll
+   88  subl sample_full.html 
+   89  ll
+   90  cat results15-21.csv 
+   91  cat results45
+   92  cat results45-50.csv 
+   93  git st
+   94  git slog
+   95  cd ..
+   96  git st
+   97  git add grab/grabFD.py
+   98  git rm --cached grab/grabFD.py
+   99  git st
+  100  git log
+  101  git commit
+  102  git add grab/
+  103  git st
+  104  git rm --cached grab/*
+  105  git st
+  106  git add grab/
+  107  git st
+  108  git rm --cached grab/re*
+  109  git rm --cached grab/sa*
+  110  git st
+  111  git commit -m 'work in progress on python based Scraper'
+  112  ll Pedigraph/
+  113  cd grab/
+  114  ll
+  115  file -I grabFD.py 
+  116  file -I results.csv 
+  117  file -I results45-50.csv 
+  118  less results.csv 
+  119  less results45-50.csv 
+  120  ll
+  121  rm cats_1-1999.csv 
+  122  python grabFD.py 
+  123  ll
+  124  rm cats_10000-19999.csv 
+  125  python grabFD.py 
+  126  python grabFD.py 
+  127  subl cats_10000-19999.csv cats_19999-19999.csv 
+  128  rm cats_19999-19999.csv 
+  129  ll
+  130  rm results*
+  131  ll
+  132  ll
+  133  ll
+  134  mkdir scratch
+  135  mv cats_00001-00999.csv scratch/
+  136  ll
+  137  tail -1 cats_10000-19999.csv 
+  138  tail -1 cats_20000-26053.csv 
+  139  ll
+  140  wc -l cats_*
+  141  ps |grep python
+  142  ll
+  143  ll
+  144  watch 
+  145  watch --differences=cumulative -n 1 ls -l
+  146  tail -1 cats_150000-189999.csv 
+  147  mv cats_150000-189999.csv cats_150000-155227.csv 
+  148  ll
+  149  python grabFD.py 
+  150  ht cats_120000-129999.csv 
+  151  rebash
+  152  ht cats_120000-129999.csv 
+  153  mv cats_120000-129999.csv cats_120000-125688.csv 
+  154  python grabFD.py 
+  155  ll
+  156  wc -l cats_12*
+  157  cat cats_12* >> comp_120000-129999.csv
+  158  mv cats_12* scratch/
+  159  ll
+  160  wc -l comp_*
+  161  ht comp_050000-099999.csv 
+  162  uniq -c -d comp_050000-099999.csv 
+  163  man uniq
+  164  uniq  -d comp_050000-099999.csv 
+  165  ll
+  166  wc -l cats_15* cats_16*
+  167  ht cats_166792-169999.csv 
+  168  python grabFD.py 
+  169  wc -l cats_15* cats_16*
+  170  cat cats_15* cats_16* >> comp_150000-169999.csv
+  171  mv cats_15* cats_16* scratch/
+  172  ll
+  173  wc -l cats_13*
+  174  wc -l cats_14*
+  175  cat cats_14* >> comp_140000-149999.csv
+  176  mv cats_14* scratch/
+  177  ll
+  178  python grabFD.py 
+  179  ht cats_170000-179999.csv 
+  180  mv cats_170000-179999.csv cats_170000-178398.csv 
+  181  python grabFD.py 
+  182  ht cats_178399-179999.csv 
+  183  mv cats_178399-179999.csv cats_178399-179767.csv 
+  184  python grabFD.py 
+  185  ll
+  186  wc -l cats_17*
+  187  cat cats_17* >> comp_170000-179999.csv
+  188  mv cats_17* scratch/
+  189  ll
+  190  wc -l co*
+  191  rm cats_19429*
+  192  ll
+  193  rm cats_195104-199999.csv 
+  194  ll
+  195  rm cats_197686-199999.csv 
+  196  ll
+  197  wc -l cats_19*
+  198  cat cats_19* >> comp_190000-194291.csv
+  199  mv cats_19* scratch/
+  200  ll
+  201  wc -l c*
+  202  ll
+  203  du -S comp_*
+  204  du -s comp_*
+  205  mkdir fd_data
+  206  mv comp_* fd_data/
+  207  du fd_data/
+  208  du -h fd_data/
+  209  cd fd_data/
+  210  ll
+  211  wc -l *
+  212  head -20 comp_000001-009999.csv 
+  213  ll
+  214  ll temp/
+  215  cat "SOURCE\tTARGET\tTARGET" >> temp/bothparents.csv
+  216  subl temp/bothparents.csv
+  217  subl ../FD_stambog_q_queries.txt 
+  218  cd temp/
+  219  file *
+  220  head -200 pipe_all_dos.csv >> dos_lf_200.csv
+  221  file dos_lf_200.csv 
+  222  head dos_lf_200.csv 
+  223  head -200 pipe_all.csv >> unix_lf_200.csv
+  224  file unix_lf_200.csv 
+  225  jq "SELECT c1,c8 from unix_lf_200.csv WHERE c8 > 100000"
+  226  q "SELECT c1,c8 from unix_lf_200.csv WHERE c8 > 100000"
+  227  q "SELECT * from unix_lf_200.csv WHERE c8 > 100000"
+  228  q -b "SELECT * from unix_lf_200.csv WHERE c8 > 100000"
+  229  gem list
+  230  brew list
+  231  brew upgrade q
+  232  q -b "SELECT * from unix_lf_200.csv WHERE c8 > 100000"
+  233  cd sbi/
+  234  ll
+  235  ln -s all_SBI_FD_pipe.csv sbi.csv
+  236  ll
+  237  cd Documents/workspaces/fr
+  238  gau
+  239  gau
+  240  gau
+  241  gau
+  242  cd fr
+  243  git st
+  244  rm FrAdvLife/test_asserts/FrPrintTest_testAnnuityPolicyPrintBigLastMonth_print_Version38.zip 
+  245  git stash save taxFreeDocChange
+  246  git st
+  247  cd ..
+  248  gau
+  249  gau
+  250  gau
+  251  cd fr
+  252  gas
+  253  git st
+  254  git out
+  255  git stash list
+  256  git push
+  257  git stash pop
+  258  git push
+  259  git st
+  260  git diff FrAdvLife/resources/printtemplates/EndeligtStamkortIndeks.doc
+  261  git st
+  262  git help add
+  263  git add -i FrAdvLife/src_test/com/schantz/fr/print/FrPrintTest.java
+  264  git diff FrAdvLife/resources/printtemplates/EndeligtStamkortIndeks.doc
+  265  clear
+  266  clear
+  267  repro
+  268  repro
+  269  rebash
+  270  clear
+  271  cd Documents/workspaces/fr/
+  272  gau
+  273  gau
+  274  gau
+  275  gac
+  276  gu checkout fr_release_1.5.0
+  277  repro
+  278  gu checkout fr_release_1.5.0
+  279  ga -e unitlinked checkout fr_release_1.5.0
+  280  gac
+  281  ga
+  282  ga -i unitlinked checkout fr_release_1.4.0
+  283  gac
+  284  cd fr
+  285  git checkout fr_master
+  286  git st
+  287  git st
+  288  git push
+  289  git up
+  290  git push
+  291  cd ..
+  292  gau
+  293  gau
+  294  cd fr
+  295  git slog -3
+  296  git slog -8
+  297  cd ..
+  298  gu out
+  299  repro
+  300  gu out
+  301  ga st
+  302  gu ss
+  303  gu checkout fr_master
+  304  ga -q cbranch
+  305  gau
+  306  gau
+  307  gu out
+  308  gu push
+  309  gau
+  310  cd fr
+  311  git slog -4
+  312  git push
+  313  cd ..
+  314  gau
+  315  neo4j start
+  316  neo4j --version
+  317  neo4j -version
+  318  neo4j version
+  319  neo4j info
+  320  neo4j stop
+  321  brew outdated 
+  322  brew upgrade neo4j 
+  323  brew update
+  324  rm /Library/Caches/Homebrew/neo4j-2.0.0.tar.gz 
+  325  brew upgrade neo4j 
+  326  neo4j start
+  327  cd Documents/github/Pedigraph/grab/scratch/
+  328  ll
+  329  cd ../fd_data/temp/
+  330  ll
+  331  mkdir graphgist
+  332  cd graphgist/
+  333  ln -s ../pipe_all.csv ./all.csv
+  334  ll
+  335  q "select count(*) from all.csv where substr(c4,1,3) = 'KOR'" 
+  336  q "select count(*) from all.csv where substr(c4,1,3) = 'OSH'" 
+  337  q "select count(*) from all.csv where substr(c4,1,3) in ('OLH', 'OSH', 'SIA', 'BAL')" 
+  338  q "select count(*) from all.csv where c7 in (select count(*) from all.csv where substr(c4,1,3) in ('OLH', 'OSH', 'SIA', 'BAL')) and NOT substr(c4,1,3) in ('OLH', 'OSH', 'SIA', 'BAL')" 
+  339  q "select count(*) from all.csv where c8 in (select count(*) from all.csv where substr(c4,1,3) in ('OLH', 'OSH', 'SIA', 'BAL')) and NOT substm k4test.csv"
+  340  q "select 'CREATE (c:Cat {id:#'||c1||'#, gender:#'||c2||'#})' from k4test.csv"
+  341  head k4test.csv 
+  342  q "select 'CREATE (c:Cat {id:#'||c1||'#, gender:#'||c2||'#, breed: #'||substr(c4,1,3)||'#})' from k4test.csv"
+  343  head k4test.csv 
+  344  q "select 'CREATE (c:Cat {id:#'||c1||'#, gender:#'||c2||'#, breed: #'||substr(c4,1,3)||'#})' from k4test.csv"
+  345  q "select 'CREATE (c:Cat {id:#'||c1||'#, gender:#'||c2||'#, breed: #'||substr(c4,1,3)||'#})' from k4test.csv" > create_50.cypher
+  346  subl create_50.cypher 
+  347  q "select 'CREATE (c'||c1||':Cat {id:#'||c1||'#, gender:#'||c2||'#, breed: #'||substr(c4,1,3)||'#})' from k4test.csv" > create_50.cypher
+  348  q "select '(c'||c1||':Cat {id:#'||c1||'#, gender:#'||c2||'#, breed: #'||substr(c4,1,3)||'#}),' from k4test.csv" > create_50.cypher
+  349  q "select '(c'||c1||')-[:SIRE]->(c'||c7||'),' from k4test.csv" 
+  350  q "select '(c'||c1||')-[:SIRE]->(c'||c7||'),(c'||c1||')-[:DAM]->(c'||c8||')' from k4test.csv" 
+  351  q "select '(c'||c1||')-[:SIRE]->(c'||c7||'),' from k4test.csv where not c7 = ''" 
+  352  q "select '(c'||c1||':Cat {id:#'||c1||'#, gender:#'||c2||'#, breed: #'||substr(c4,1,3)||'#}),' from kat4.csv" > kat4_cats.cypher
+  353  ll
+  354  q "select '(c'||c1||':Cat {id:#'||c1||'#, gender:#'||c2||'#, breed: #'||substr(c4,1,3)||'#}),' from kat4all.csv" > kat4cats.cypher
+  355  subl kat4cats.cypher 
+  356  q "select '(c'||c1||':Cat {id:#'||c1||'#, gender:#'||c2||'#}), (c'||c1||')-[:IS_BREED]->('||lower(substr(c4,1,3))||')' from k4test.csv" 
+  357  q "select distinct substr(c4,1,3) as breed from kat4all.csv"
+  358  q "select distinct substr(c4,1,3) as breed, lower(breed) from kat4all.csv"
+  359  q "select distinct substr(c4,1,3) as breed) from kat4all.csv"
+  360  q "select '(c'||c1||':Cat {id:#'||c1||'#, gender:#'||c2||'#}), (c'||c1||')-[:IS_BREED]->('||lower(substr(c4,1,3))||')' from k4test.csv" 
+  361  q "select '(c'||c1||':Cat {id:#'||c1||'#, gender:#'||c2||'#}), (c'||c1||')-[:IS_BREED]->('||lower(substr(c4,1,3))||')' from k4test.csv" > k50_with_breed.cypher
+  362  subl k50_with_breed.cypher 
+  363  q "select '(c'||c1||':Cat {id:#'||c1||'#, gender:#'||c2||'#}), (c'||c1||')-[:IS_BREED]->('||lower(substr(c4,1,3))||')' from k4test.csv" 
+  364  q "select '(c'||c1||':Cat {id:#'||c1||'#, gender:#'||c2||'#}), (c'||c1||')-[:IS_BREED]->('||lower(substr(c4,1,3))||')' from k4test.csv" | sed -e 's/#/\"/'
+  365  q "select '(c'||c1||':Cat {id:#'||c1||'#, gender:#'||c2||'#}), (c'||c1||')-[:IS_BREED]->('||lower(substr(c4,1,3))||')' from k4test.csv" | sed -e 's/#/\"/ig'
+  366  man sed
+  367  q "select '(c'||c1||':Cat {id:#'||c1||'#, gender:#'||c2||'#}), (c'||c1||')-[:IS_BREED]->('||lower(substr(c4,1,3))||')' from k4test.csv" | sed -e 's/#/\"/g'
+  368  q "select '(c'||c1||':Cat {id:#'||c1||'#, gender:#'||c2||'#}), (c'||c1||')-[:IS_BREED]->('||lower(substr(c4,1,3))||'),' from kat4all.csv" | sed -e 's/#/\"/g' > all_kat4_cats_n_breed.cypher
+  369  subl all_kat4_cats_n_breed.cypher 
+  370  q "select '(c'||c1||')-[:SIRE]->(c'||c7||'),' from k4test.csv where not c7 = ''" 
+  371  q "select '(c'||c1||')-[:SIRE]->(c'||c7||'),' from kat4all.csv where not c7 = ''" > all_kat4_sire_relations.cypher
+  372  subl all_kat4_sire_relations.cypher 
+  373  q "select '(c'||c1||')-[:DAM]->(c'||c8||'),' from kat4all.csv where not c8 = ''" > all_kat4_dam_relations.cypher
+  374  subl all_kat4_dam_relations.cypher 
+  375  ll
+  376  q "Select c1,c2,c3,c4,c5,c6,c7,c8 from all.cvs where substr(c4,1,3) in (ACS,'ASS','BOM','SFL','NEM','THA','AMS','SNO','CYM','GRX','SFS','ACL','DSP','KBS','SIN','SRL','SRS','JBT','PEB','MAU','SOK','CHA')" > small_breeds.csv
+  377  q "Select c1,c2,c3,c4,c5,c6,c7,c8 from all.csv where substr(c4,1,3) in (ACS,'ASS','BOM','SFL','NEM','THA','AMS','SNO','CYM','GRX','SFS','ACL','DSP','KBS','SIN','SRL','SRS','JBT','PEB','MAU','SOK','CHA')" > small_breeds.csv
+  378  q "Select c1,c2,c3,c4,c5,c6,c7,c8 from all.csv where substr(c4,1,3) in ('ACS,'ASS','BOM','SFL','NEM','THA','AMS','SNO','CYM','GRX','SFS','ACL','DSP','KBS','SIN','SRL','SRS','JBT','PEB','MAU','SOK','CHA')" > small_breeds.csv
+  379  q "Select c1,c2,c3,c4,c5,c6,c7,c8 from all.csv where substr(c4,1,3) in ('ACS','ASS','BOM','SFL','NEM','THA','AMS','SNO','CYM','GRX','SFS','ACL','DSP','KBS','SIN','SRL','SRS','JBT','PEB','MAU','SOK','CHA')" > small_breeds.csv
+  380  wc -l small_breeds.csv 
+  381  head small_breeds.csv 
+  382  q "select '(c'||c1||':Cat {id:#'||c1||'#, gender:#'||c2||'#}), (c'||c1||')-[:IS_BREED]->('||lower(substr(c4,1,3))||'),' from small_breeds.csv" | sed -e 's/#/\"/g' > small_breeds.cypher
+  383  subl small_breeds.cypher 
+  384  q "select '(c'||c1||')-[:DAM]->(c'||c8||'),' from small_breeds.csv where not c8 = ''" > small_breeds_dam_relations.cypher
+  385  subl small_breeds_dam_relations.cypher 
+  386  q "Select c1,c2,c3,c4,c5,c6,c7,c8 from all.cvs where substr(c4,1,3) in (ACS,'ASS','BOM','SFL','NEM','THA','AMS','SNO','CYM','GRX','SFS','ACL','DSP','KBS','SRL','SRS','JBT')" > smaller_breeds.csv
+  387  q "Select c1,c2,c3,c4,c5,c6,c7,c8 from all.csv where substr(c4,1,3) in ('ACS','ASS','BOM','SFL','NEM','THA','AMS','SNO','CYM','GRX','SFS','ACL','DSP','KBS','SRL','SRS','JBT')" > smaller_breeds.csv
+  388  wc -l smaller_breeds.csv 
+  389  head smaller_breeds.csv 
+  390  q "select '(c'||c1||')-[:SIRE]->(c'||c7||'),' from smaller_breeds.csv where not c7 = ''" > smaller_sire_relations.cypher
+  391  subl smaller_sire_relations.cypher 
+  392  q "select '(c'||c1||')-[:DAM]->(c'||c8||'),' from smaller_breeds.csv where not c8 = ''" > smaller_dam_relations.cypher
+  393  subl smaller_dam_relations.cypher 
+  394  ll
+  395  head all.csv
+  396  wc -l smaller_breeds.csv 
+  397  subl smaller_*
+  398  ll
+  399  set -o
+  400  set +o emacs
+  401  bf
+  402  rebash
+  403  set -o
+  404  set +o
+  405  ~/Documents/github/Pedigraph/Pedigraph/
+  406  ~/Documents/github/Pedigraph/ll
+  407  clear
+  408  cd Documents/github/Pedigraph
+  409  git st
+  410  git diff
+  411  git st
+  412  cd Pedigraph/
+  413  git slog
+  414  git st
+  415   d ..
+  416  cp Pedigraph Pedigraph_backup
+  417  set +o emacs
+  418  rebash
+  419  repro
+  420  cp -r Pedigraph Pedigraph_backup
+  421  du -s
+  422  du -sh *
+  423  ll Pedigraph
+  424  ll Pedigraph_backup/
+  425  du -s Ped*
+  426  mkdir Pedigraph_frontend
+  427  cd Pedigraph/Pedigraph/
+  428  grunt serve
+  429  set -o
+  430  set +o vi
+  431  set -o emacs
+  432  set -o
+  433  neo4j start
+  434  j Pedi
+  435  j
+  436  cd Documents/github/Pedigraph/Pedigraph/
+  437  git st
+  438  git stash list
+  439  git stash apply stash@{0} 
+  440  git st
+  441  git diff app/scripts/controllers/main.js
+  442  git st
+  443  ||c1||')-[:SIRE]->(c'||c7||'),' from smaller_breeds.csv where not c7 = ''" > smaller_sire_relations.cypher
+  444  subl smaller_sire_relations.cypher 
+  445  q "select '(c'||c1||')-[:DAM]->(c'||c8||'),' from smaller_breeds.csv where not c8 = ''" > smaller_dam_relations.cypher
+  446  subl smaller_dam_relations.cypher 
+  447  ll
+  448  head all.csv
+  449  wc -l smaller_breeds.csv 
+  450  subl smaller_*
+  451  ll
+  452  set -o
+  453  set +o emacs
+  454  bf
+  455  rebash
+  456  set -o
+  457  set +o
+  458  ~/Documents/github/Pedigraph/Pedigraph/
+  459  ~/Documents/github/Pedigraph/ll
+  460  clear
+  461  cd Documents/github/Pedigraph
+  462  git st
+  463  git diff
+  464  git st
+  465  cd Pedigraph/
+  466  git slog
+  467  git st
+  468   d ..
+  469  cp Pedigraph Pedigraph_backup
+  470  set +o emacs
+  471  rebash
+  472  repro
+  473  cp -r Pedigraph Pedigraph_backup
+  474  du -s
+  475  du -sh *
+  476  ll Pedigraph
+  477  ll Pedigraph_backup/
+  478  du -s Ped*
+  479  mkdir Pedigraph_frontend
+  480  cd Pedigraph/Pedigraph/
+  481  grunt serve
+  482  j fr
+  483  cd Documents/workspaces/fr/
+  484  fr
+  485  brew outdated 
+  486  brew update
+  487  brew outdated 
+  488  gau
+  489  git achievements 
+  490  git achievements -l
+  491  hub
+  492  which git
+  493  whichl git
+  494  alias 
+  495   ga cbranch
+  496  ga checkout fr_master
+  497  cd fr
+  498  git branch
+  499  git feature sif
+  500  git branch
+  501  tmc
+  502  cd scripts/
+  503  subl README 
+  504  j github
+  505  3 up
+  506  up 3
+  507  cd ../github/
+  508  cd Pedigraph
+  509  cd grab/fd_data/
+  510  cd ..
+  511  cd ../FD_data/
+  512  cd temp/
+  513  cd graphgist/
+  514  head smaller_breeds.csv 
+  515  subl ../../FD_stambog_q_queries.txt 
+  516  history
+  517  history |subl
+  518  history > history.txt

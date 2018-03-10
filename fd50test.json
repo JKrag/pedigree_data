@@ -1,0 +1,494 @@
+{
+      "cats" : [
+ {
+   "id": 1,
+   "gender": "M",
+   "name": "\"B\" Mahe mein Ein und Alles",
+   "ems": "MCO a",
+   "dob": "06-02-2006",
+   "reg": "FD LO 143267",
+   "sire": 186408,
+   "dam": 194034
+ },
+ {
+   "id": 2,
+   "gender": "F",
+   "name": "\"C\" It's Me Sajonara of Schjetne DK",
+   "ems": "PER d",
+   "dob": "13-05-1991",
+   "reg": "FD LO 63187",
+   "sire": 118996,
+   "dam": 194074
+ },
+ {
+   "id": 3,
+   "gender": "M",
+   "name": "\"C\" The Creme Bandit of Schjetne DK",
+   "ems": "PER e",
+   "dob": "13-05-1991",
+   "reg": "FD LO 63185",
+   "sire": 118996,
+   "dam": 194074
+ },
+ {
+   "id": 4,
+   "gender": "M",
+   "name": "\"C\" The Red Manu of Schjetne DK",
+   "ems": "PER d",
+   "dob": "13-05-1991",
+   "reg": "FD LO 63186",
+   "sire": 118996,
+   "dam": 194074
+ },
+ {
+   "id": 5,
+   "gender": "M",
+   "name": "\"D\" Casanova Joe of Schjetne DK",
+   "ems": "PER d",
+   "dob": "06-12-1991",
+   "reg": "FD LO 65866",
+   "sire": 118996,
+   "dam": 1326
+ },
+ {
+   "id": 6,
+   "gender": "F",
+   "name": "\"D\" Charming Belinda of Schjetne DK",
+   "ems": "PER d",
+   "dob": "06-12-1991",
+   "reg": "FD LO 65865",
+   "sire": 118996,
+   "dam": 1326
+ },
+ {
+   "id": 7,
+   "gender": "M",
+   "name": "\"D\" Ginger Man of Schjetne DK",
+   "ems": "PER d",
+   "dob": "06-12-1991",
+   "reg": "FD LO 65868",
+   "sire": 118996,
+   "dam": 1326
+ },
+ {
+   "id": 8,
+   "gender": "F",
+   "name": "\"D\" X-Collection of Schjetne DK",
+   "ems": "PER d",
+   "dob": "06-12-1991",
+   "reg": "FD LO 65864",
+   "sire": 118996,
+   "dam": 1326
+ },
+ {
+   "id": 9,
+   "gender": "M",
+   "name": "\"D\" X-stremely Red Jr of Schjetne DK",
+   "ems": "PER d",
+   "dob": "06-12-1991",
+   "reg": "FD LO 65867",
+   "sire": 118996,
+   "dam": 1326
+ },
+ {
+   "id": 10,
+   "gender": "F",
+   "name": "\"E\" Viva Las Vegas of Schjetne DK",
+   "ems": "PER f",
+   "dob": "22-05-1992",
+   "reg": "FD LO 67584",
+   "sire": 128254,
+   "dam": 194074
+ },
+ {
+   "id": 11,
+   "gender": "F",
+   "name": "\"E\" Viva ZZ Top of Schjetne DK",
+   "ems": "PER f",
+   "dob": "22-05-1992",
+   "reg": "FD LO 67583",
+   "sire": 128254,
+   "dam": 1326
+ },
+ {
+   "id": 12,
+   "gender": "M",
+   "name": "\"Mactho Man\" van Anubis of Farao's",
+   "ems": "SPH n",
+   "dob": "...",
+   "reg": "BKV 050002908",
+   "sire": 17301,
+   "dam": 13428
+ },
+ {
+   "id": 13,
+   "gender": "M",
+   "name": "\"Me Tarzan\" Unplugged DK",
+   "ems": "MCO d 22",
+   "dob": "13-09-1999",
+   "reg": "FD LO 102070",
+   "sire": 9075,
+   "dam": 61402
+ },
+ {
+   "id": 14,
+   "gender": "F",
+   "name": "\"You Jane\" Unplugged DK",
+   "ems": "MCO n",
+   "dob": "13-09-1999",
+   "reg": "FD LO 102071",
+   "sire": 9075,
+   "dam": 61402
+ },
+ {
+   "id": 15,
+   "gender": "F",
+   "name": "(A)LangThai's Zeudi Araya",
+   "ems": "OSH b",
+   "dob": "...",
+   "reg": "ANFI LO 79666",
+   "sire": 1587,
+   "dam": 132845
+ },
+ {
+   "id": 16,
+   "gender": "F",
+   "name": "(A)Winerau's Xenia of Perfect Cat*UA",
+   "ems": "MCO f 22",
+   "dob": "...",
+   "reg": "UA.FAU.01.94506.11",
+   "sire": 163983,
+   "dam": 136028
+ },
+ {
+   "id": 17,
+   "gender": "F",
+   "name": "(Blue) Tara van Sheba's Adiba",
+   "ems": "ABY n",
+   "dob": "...",
+   "reg": "NHS AK 50.875",
+   "sire": null,
+   "dam": null
+ },
+ {
+   "id": 18,
+   "gender": "F",
+   "name": "(IDP)Betty Back's Sahara",
+   "ems": "EXO fs 22 62",
+   "dob": "...",
+   "reg": "(N)NRR LO 144241",
+   "sire": 17203,
+   "dam": 134496
+ },
+ {
+   "id": 19,
+   "gender": "F",
+   "name": "(IND) Peaches Blue Belle",
+   "ems": "NFO ft s 09 22",
+   "dob": "...",
+   "reg": "(N)NRR RX 143345",
+   "sire": 192542,
+   "dam": 154976
+ },
+ {
+   "id": 20,
+   "gender": "M",
+   "name": "(IND)Aliosha's Draumur Simsonsson",
+   "ems": "NFO ns 09",
+   "dob": "...",
+   "reg": "(N)NRR LO 126222",
+   "sire": null,
+   "dam": null
+ },
+ {
+   "id": 21,
+   "gender": "F",
+   "name": "(IND)Backkara's Cha-Cha",
+   "ems": "SBI h 21",
+   "dob": "07-11-2004",
+   "reg": "(N)NRR LO 147122",
+   "sire": 167954,
+   "dam": 173717
+ },
+ {
+   "id": 22,
+   "gender": "F",
+   "name": "(IND)Backkara's Delicious Dream",
+   "ems": "SBI n",
+   "dob": "30-01-2004",
+   "reg": "(N)NRR LO 138273",
+   "sire": 167945,
+   "dam": 167918
+ },
+ {
+   "id": 23,
+   "gender": "M",
+   "name": "(IND)Backkara's Picasso",
+   "ems": "SBI a",
+   "dob": "...",
+   "reg": "(N)NRR LO 134994",
+   "sire": null,
+   "dam": null
+ },
+ {
+   "id": 24,
+   "gender": "F",
+   "name": "(IND)Overlord Charmic",
+   "ems": "MCO n 09 22",
+   "dob": "...",
+   "reg": "(S)FBK MC 580",
+   "sire": 126185,
+   "dam": 191238
+ },
+ {
+   "id": 25,
+   "gender": "M",
+   "name": "(IND)Overlord Lynx",
+   "ems": "MCO n 09 22",
+   "dob": "...",
+   "reg": "(S)SVERAK LO 180912",
+   "sire": 26,
+   "dam": 24
+ },
+ {
+   "id": 26,
+   "gender": "M",
+   "name": "(IND)Ramsekattens Shovelhead",
+   "ems": "MCO n 22",
+   "dob": "06-09-2000",
+   "reg": "(S)KKN SL 953-00",
+   "sire": 145594,
+   "dam": 27
+ },
+ {
+   "id": 27,
+   "gender": "F",
+   "name": "(IND)Rocky Robbin's Dirty Dancing",
+   "ems": "MCO f 23",
+   "dob": "...",
+   "reg": "(S)KKN SL 468-97",
+   "sire": null,
+   "dam": null
+ },
+ {
+   "id": 28,
+   "gender": "M",
+   "name": "(N) Du Monet Bentley",
+   "ems": "PER d 01 62",
+   "dob": "14-01-2006",
+   "reg": "SVERAK LO 238330",
+   "sire": 193699,
+   "dam": 29
+ },
+ {
+   "id": 29,
+   "gender": "F",
+   "name": "(N) Du Monet Guess",
+   "ems": "PER d 03 24",
+   "dob": "...",
+   "reg": "NRR LO 134523",
+   "sire": 153298,
+   "dam": 31
+ },
+ {
+   "id": 30,
+   "gender": "M",
+   "name": "(N) Frisco Lille Panda",
+   "ems": "PER n 01 21 62",
+   "dob": "20-05-2000",
+   "reg": "SVERAK LO 176868",
+   "sire": 154121,
+   "dam": 172850
+ },
+ {
+   "id": 31,
+   "gender": "F",
+   "name": "(N) Misty Bar-B-Doll",
+   "ems": "PER g 03 22",
+   "dob": "23-05-1997",
+   "reg": "NRR LO 119207",
+   "sire": 13801,
+   "dam": 140514
+ },
+ {
+   "id": 32,
+   "gender": "F",
+   "name": "(N) Summerfield's Isabella",
+   "ems": "MCO w 62",
+   "dob": "21-10-2007",
+   "reg": "FD LO 148689",
+   "sire": 1237,
+   "dam": 545
+ },
+ {
+   "id": 33,
+   "gender": "F",
+   "name": "(N) Summerfield's Kayla",
+   "ems": "MCO n 23",
+   "dob": "21-10-2007",
+   "reg": "FD LO 148687",
+   "sire": 1237,
+   "dam": 545
+ },
+ {
+   "id": 34,
+   "gender": "M",
+   "name": "(N) Summerfield's McDreamy",
+   "ems": "MCO n 22",
+   "dob": "11-03-2007",
+   "reg": "FD LO 146152",
+   "sire": 1237,
+   "dam": 545
+ },
+ {
+   "id": 35,
+   "gender": "M",
+   "name": "(N) Summerfield's Orlando",
+   "ems": "MCO n 22",
+   "dob": "21-10-2007",
+   "reg": "FD LO 148686",
+   "sire": 1237,
+   "dam": 545
+ },
+ {
+   "id": 36,
+   "gender": "F",
+   "name": "(N) Summerfield's Savannah",
+   "ems": "MCO w",
+   "dob": "11-03-2007",
+   "reg": "FD LO 146153",
+   "sire": 1237,
+   "dam": 545
+ },
+ {
+   "id": 37,
+   "gender": "F",
+   "name": "(N) Summerfield's Stella",
+   "ems": "MCO w 62",
+   "dob": "21-10-2007",
+   "reg": "FD LO 148688",
+   "sire": 1237,
+   "dam": 545
+ },
+ {
+   "id": 38,
+   "gender": "F",
+   "name": "(N) Summerfield's White Feather",
+   "ems": "MCO w 62",
+   "dob": "11-03-2007",
+   "reg": "FD LO 146151",
+   "sire": 1237,
+   "dam": 545
+ },
+ {
+   "id": 39,
+   "gender": "F",
+   "name": "(N)Abbusino Blue Diana",
+   "ems": "BUR a",
+   "dob": "...",
+   "reg": "NRR LO 4982",
+   "sire": null,
+   "dam": null
+ },
+ {
+   "id": 40,
+   "gender": "M",
+   "name": "(N)Abbusino Boris Bruno",
+   "ems": "BUR n",
+   "dob": "...",
+   "reg": "NRR LO 5502",
+   "sire": 123951,
+   "dam": 39
+ },
+ {
+   "id": 41,
+   "gender": "M",
+   "name": "(N)Absolute Balstyrige Belbert",
+   "ems": "BRI n 24",
+   "dob": "...",
+   "reg": "NRR LO 111930",
+   "sire": null,
+   "dam": null
+ },
+ {
+   "id": 42,
+   "gender": "F",
+   "name": "(N)Adelrose Aurelia Munch",
+   "ems": "NFO ns 23",
+   "dob": "20-12-2007",
+   "reg": "FD LO 170813",
+   "sire": 1143,
+   "dam": 169723
+ },
+ {
+   "id": 43,
+   "gender": "F",
+   "name": "(N)Adriexi's Xandra",
+   "ems": "SBI g",
+   "dob": "...",
+   "reg": "NRR LO 132033",
+   "sire": 167947,
+   "dam": 167935
+ },
+ {
+   "id": 44,
+   "gender": "F",
+   "name": "(N)Agapimo's Babelle Bluebell",
+   "ems": "SBI a",
+   "dob": "...",
+   "reg": "NRR LO 61692",
+   "sire": 186944,
+   "dam": 175189
+ },
+ {
+   "id": 45,
+   "gender": "F",
+   "name": "(N)Agricats Karma",
+   "ems": "PER f 33",
+   "dob": "19-11-1992",
+   "reg": "NRR LO 107679",
+   "sire": 135044,
+   "dam": 135045
+ },
+ {
+   "id": 46,
+   "gender": "F",
+   "name": "(N)Agricats Key To My Heart",
+   "ems": "PER f",
+   "dob": "19-11-1992",
+   "reg": "FD LO 70254",
+   "sire": 135044,
+   "dam": 135045
+ },
+ {
+   "id": 47,
+   "gender": "F",
+   "name": "(N)Alinde's Nola",
+   "ems": "NFO f 09",
+   "dob": "12-11-1999",
+   "reg": "SVERAK RX 183355",
+   "sire": 1147,
+   "dam": 727
+ },
+ {
+   "id": 48,
+   "gender": "M",
+   "name": "(N)Alladin av LinnMa",
+   "ems": "NFO ns 09 23",
+   "dob": "...",
+   "reg": "NRR LO 112615",
+   "sire": 186574,
+   "dam": 1154
+ },
+ {
+   "id": 49,
+   "gender": "F",
+   "name": "(N)Almighty Alba D'Arakan",
+   "ems": "SBI n",
+   "dob": "...",
+   "reg": "NRR LO 121341",
+   "sire": 21617,
+   "dam": 168804
+ }
+]
+}

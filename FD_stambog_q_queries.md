@@ -1,5 +1,23 @@
 FD stamtavle q queries
 
+=======
+---------------
+kat. 4 stats til Charly 2017-10-15
+
+#Find alle Kat. 4 katte med FD nummer og en fødselsdato, sorteret efter fødselsdato
+# NOTE: substr(c5,7,4)||substr(c5,4,2)||substr(c5,1,2) as DOB
+# for at konvertere dato til sorterbart format.
+
+q   -d ';' -e UTF-8  "SELECT  substr(c5,7,4)||substr(c5,4,2)||substr(c5,1,2) as DOB, *  FROM all_kat4.csv WHERE  substr(c6,1,3)  IN ('FD ','(DK') AND C5 != '...' AND substr(c5,7,4) > '19890000' ORDER BY DOB"
+
+# Kat.4 med FD nummer of fødselsdato - Antal katte registreret per år siden 1990
+# Note: brugt substr(c6,1,3)  IN ('FD ','(DK') da reg nr. fra 2010 og frem hedder '(DK)FD '
+
+q   -d ';' -e UTF-8  "SELECT  count(*),substr(c5,7,4) as DOB  FROM all_kat4.csv WHERE  substr(c6,1,3)  IN ('FD ','(DK') AND C5 != '...' AND DOB > '19890000' group by substr(DOB,1,4)"
+
+
+----------------
+
 # find alle OSH med sjældne farver (n < 4) 
 q -e UTF-8  "SELECT c4,c3 FROM comp*.csv WHERE c4 IN (SELECT c4 FROM comp*.csv WHERE c4 LIKE 'OSH%'  GROUP BY c4 HAVING COUNT(*) < 4) ORDER BY c4"
 
